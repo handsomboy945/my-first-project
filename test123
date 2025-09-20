@@ -1,4 +1,0 @@
-python power.py | cat >> hello.txt
-wmic /namespace:\\root\wmi PATH MSAcpi_ThermalZoneTemperature get CurrentTemperature | cat >> hello.txt
-date "+%Y-%m-%d %H:%M:%S" | cat >> hello.txt
-cat hello.txt
