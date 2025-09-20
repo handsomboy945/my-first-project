@@ -1,2 +1,2 @@
-# my-first-project
-This is my first project on GithHub.
+# LLMtry
+尝试使用大模型来识别图片故障，这里尝试调整不同的提示词，以求寻找到最优的提示词改进方向可以是的大模型能够更好的识别图片故障
