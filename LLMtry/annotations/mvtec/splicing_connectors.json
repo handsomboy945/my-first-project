@@ -1,0 +1,938 @@
+{
+    "splicing_connectors/test/good/000.png": [
+        "splicing_connectors/train/good/161.png"
+    ],
+    "splicing_connectors/test/good/001.png": [
+        "splicing_connectors/train/good/254.png"
+    ],
+    "splicing_connectors/test/good/002.png": [
+        "splicing_connectors/train/good/153.png"
+    ],
+    "splicing_connectors/test/good/003.png": [
+        "splicing_connectors/train/good/149.png"
+    ],
+    "splicing_connectors/test/good/004.png": [
+        "splicing_connectors/train/good/167.png"
+    ],
+    "splicing_connectors/test/good/005.png": [
+        "splicing_connectors/train/good/135.png"
+    ],
+    "splicing_connectors/test/good/006.png": [
+        "splicing_connectors/train/good/315.png"
+    ],
+    "splicing_connectors/test/good/007.png": [
+        "splicing_connectors/train/good/339.png"
+    ],
+    "splicing_connectors/test/good/008.png": [
+        "splicing_connectors/train/good/311.png"
+    ],
+    "splicing_connectors/test/good/009.png": [
+        "splicing_connectors/train/good/125.png"
+    ],
+    "splicing_connectors/test/good/010.png": [
+        "splicing_connectors/train/good/244.png"
+    ],
+    "splicing_connectors/test/good/011.png": [
+        "splicing_connectors/train/good/025.png"
+    ],
+    "splicing_connectors/test/good/012.png": [
+        "splicing_connectors/train/good/050.png"
+    ],
+    "splicing_connectors/test/good/013.png": [
+        "splicing_connectors/train/good/141.png"
+    ],
+    "splicing_connectors/test/good/014.png": [
+        "splicing_connectors/train/good/243.png"
+    ],
+    "splicing_connectors/test/good/015.png": [
+        "splicing_connectors/train/good/072.png"
+    ],
+    "splicing_connectors/test/good/016.png": [
+        "splicing_connectors/train/good/025.png"
+    ],
+    "splicing_connectors/test/good/017.png": [
+        "splicing_connectors/train/good/077.png"
+    ],
+    "splicing_connectors/test/good/018.png": [
+        "splicing_connectors/train/good/183.png"
+    ],
+    "splicing_connectors/test/good/019.png": [
+        "splicing_connectors/train/good/200.png"
+    ],
+    "splicing_connectors/test/good/020.png": [
+        "splicing_connectors/train/good/044.png"
+    ],
+    "splicing_connectors/test/good/021.png": [
+        "splicing_connectors/train/good/262.png"
+    ],
+    "splicing_connectors/test/good/022.png": [
+        "splicing_connectors/train/good/119.png"
+    ],
+    "splicing_connectors/test/good/023.png": [
+        "splicing_connectors/train/good/101.png"
+    ],
+    "splicing_connectors/test/good/024.png": [
+        "splicing_connectors/train/good/232.png"
+    ],
+    "splicing_connectors/test/good/025.png": [
+        "splicing_connectors/train/good/200.png"
+    ],
+    "splicing_connectors/test/good/026.png": [
+        "splicing_connectors/train/good/187.png"
+    ],
+    "splicing_connectors/test/good/027.png": [
+        "splicing_connectors/train/good/150.png"
+    ],
+    "splicing_connectors/test/good/028.png": [
+        "splicing_connectors/train/good/291.png"
+    ],
+    "splicing_connectors/test/good/029.png": [
+        "splicing_connectors/train/good/185.png"
+    ],
+    "splicing_connectors/test/good/030.png": [
+        "splicing_connectors/train/good/024.png"
+    ],
+    "splicing_connectors/test/good/031.png": [
+        "splicing_connectors/train/good/291.png"
+    ],
+    "splicing_connectors/test/good/032.png": [
+        "splicing_connectors/train/good/045.png"
+    ],
+    "splicing_connectors/test/good/033.png": [
+        "splicing_connectors/train/good/242.png"
+    ],
+    "splicing_connectors/test/good/034.png": [
+        "splicing_connectors/train/good/107.png"
+    ],
+    "splicing_connectors/test/good/035.png": [
+        "splicing_connectors/train/good/202.png"
+    ],
+    "splicing_connectors/test/good/036.png": [
+        "splicing_connectors/train/good/288.png"
+    ],
+    "splicing_connectors/test/good/037.png": [
+        "splicing_connectors/train/good/022.png"
+    ],
+    "splicing_connectors/test/good/038.png": [
+        "splicing_connectors/train/good/033.png"
+    ],
+    "splicing_connectors/test/good/039.png": [
+        "splicing_connectors/train/good/242.png"
+    ],
+    "splicing_connectors/test/good/040.png": [
+        "splicing_connectors/train/good/075.png"
+    ],
+    "splicing_connectors/test/good/041.png": [
+        "splicing_connectors/train/good/086.png"
+    ],
+    "splicing_connectors/test/good/042.png": [
+        "splicing_connectors/train/good/232.png"
+    ],
+    "splicing_connectors/test/good/043.png": [
+        "splicing_connectors/train/good/131.png"
+    ],
+    "splicing_connectors/test/good/044.png": [
+        "splicing_connectors/train/good/084.png"
+    ],
+    "splicing_connectors/test/good/045.png": [
+        "splicing_connectors/train/good/173.png"
+    ],
+    "splicing_connectors/test/good/046.png": [
+        "splicing_connectors/train/good/282.png"
+    ],
+    "splicing_connectors/test/good/047.png": [
+        "splicing_connectors/train/good/250.png"
+    ],
+    "splicing_connectors/test/good/048.png": [
+        "splicing_connectors/train/good/251.png"
+    ],
+    "splicing_connectors/test/good/049.png": [
+        "splicing_connectors/train/good/001.png"
+    ],
+    "splicing_connectors/test/good/050.png": [
+        "splicing_connectors/train/good/034.png"
+    ],
+    "splicing_connectors/test/good/051.png": [
+        "splicing_connectors/train/good/260.png"
+    ],
+    "splicing_connectors/test/good/052.png": [
+        "splicing_connectors/train/good/066.png"
+    ],
+    "splicing_connectors/test/good/053.png": [
+        "splicing_connectors/train/good/355.png"
+    ],
+    "splicing_connectors/test/good/054.png": [
+        "splicing_connectors/train/good/237.png"
+    ],
+    "splicing_connectors/test/good/055.png": [
+        "splicing_connectors/train/good/069.png"
+    ],
+    "splicing_connectors/test/good/056.png": [
+        "splicing_connectors/train/good/037.png"
+    ],
+    "splicing_connectors/test/good/057.png": [
+        "splicing_connectors/train/good/126.png"
+    ],
+    "splicing_connectors/test/good/058.png": [
+        "splicing_connectors/train/good/135.png"
+    ],
+    "splicing_connectors/test/good/059.png": [
+        "splicing_connectors/train/good/341.png"
+    ],
+    "splicing_connectors/test/good/060.png": [
+        "splicing_connectors/train/good/252.png"
+    ],
+    "splicing_connectors/test/good/061.png": [
+        "splicing_connectors/train/good/003.png"
+    ],
+    "splicing_connectors/test/good/062.png": [
+        "splicing_connectors/train/good/196.png"
+    ],
+    "splicing_connectors/test/good/063.png": [
+        "splicing_connectors/train/good/020.png"
+    ],
+    "splicing_connectors/test/good/064.png": [
+        "splicing_connectors/train/good/347.png"
+    ],
+    "splicing_connectors/test/good/065.png": [
+        "splicing_connectors/train/good/068.png"
+    ],
+    "splicing_connectors/test/good/066.png": [
+        "splicing_connectors/train/good/211.png"
+    ],
+    "splicing_connectors/test/good/067.png": [
+        "splicing_connectors/train/good/154.png"
+    ],
+    "splicing_connectors/test/good/068.png": [
+        "splicing_connectors/train/good/172.png"
+    ],
+    "splicing_connectors/test/good/069.png": [
+        "splicing_connectors/train/good/339.png"
+    ],
+    "splicing_connectors/test/good/070.png": [
+        "splicing_connectors/train/good/291.png"
+    ],
+    "splicing_connectors/test/good/071.png": [
+        "splicing_connectors/train/good/045.png"
+    ],
+    "splicing_connectors/test/good/072.png": [
+        "splicing_connectors/train/good/004.png"
+    ],
+    "splicing_connectors/test/good/073.png": [
+        "splicing_connectors/train/good/203.png"
+    ],
+    "splicing_connectors/test/good/074.png": [
+        "splicing_connectors/train/good/356.png"
+    ],
+    "splicing_connectors/test/good/075.png": [
+        "splicing_connectors/train/good/014.png"
+    ],
+    "splicing_connectors/test/good/076.png": [
+        "splicing_connectors/train/good/141.png"
+    ],
+    "splicing_connectors/test/good/077.png": [
+        "splicing_connectors/train/good/155.png"
+    ],
+    "splicing_connectors/test/good/078.png": [
+        "splicing_connectors/train/good/081.png"
+    ],
+    "splicing_connectors/test/good/079.png": [
+        "splicing_connectors/train/good/318.png"
+    ],
+    "splicing_connectors/test/good/080.png": [
+        "splicing_connectors/train/good/358.png"
+    ],
+    "splicing_connectors/test/good/081.png": [
+        "splicing_connectors/train/good/292.png"
+    ],
+    "splicing_connectors/test/good/082.png": [
+        "splicing_connectors/train/good/203.png"
+    ],
+    "splicing_connectors/test/good/083.png": [
+        "splicing_connectors/train/good/136.png"
+    ],
+    "splicing_connectors/test/good/084.png": [
+        "splicing_connectors/train/good/104.png"
+    ],
+    "splicing_connectors/test/good/085.png": [
+        "splicing_connectors/train/good/222.png"
+    ],
+    "splicing_connectors/test/good/086.png": [
+        "splicing_connectors/train/good/024.png"
+    ],
+    "splicing_connectors/test/good/087.png": [
+        "splicing_connectors/train/good/044.png"
+    ],
+    "splicing_connectors/test/good/088.png": [
+        "splicing_connectors/train/good/191.png"
+    ],
+    "splicing_connectors/test/good/089.png": [
+        "splicing_connectors/train/good/285.png"
+    ],
+    "splicing_connectors/test/good/090.png": [
+        "splicing_connectors/train/good/254.png"
+    ],
+    "splicing_connectors/test/good/091.png": [
+        "splicing_connectors/train/good/339.png"
+    ],
+    "splicing_connectors/test/good/092.png": [
+        "splicing_connectors/train/good/333.png"
+    ],
+    "splicing_connectors/test/good/093.png": [
+        "splicing_connectors/train/good/271.png"
+    ],
+    "splicing_connectors/test/good/094.png": [
+        "splicing_connectors/train/good/241.png"
+    ],
+    "splicing_connectors/test/good/095.png": [
+        "splicing_connectors/train/good/047.png"
+    ],
+    "splicing_connectors/test/good/096.png": [
+        "splicing_connectors/train/good/039.png"
+    ],
+    "splicing_connectors/test/good/097.png": [
+        "splicing_connectors/train/good/248.png"
+    ],
+    "splicing_connectors/test/good/098.png": [
+        "splicing_connectors/train/good/064.png"
+    ],
+    "splicing_connectors/test/good/099.png": [
+        "splicing_connectors/train/good/040.png"
+    ],
+    "splicing_connectors/test/good/100.png": [
+        "splicing_connectors/train/good/323.png"
+    ],
+    "splicing_connectors/test/good/101.png": [
+        "splicing_connectors/train/good/068.png"
+    ],
+    "splicing_connectors/test/good/102.png": [
+        "splicing_connectors/train/good/193.png"
+    ],
+    "splicing_connectors/test/good/103.png": [
+        "splicing_connectors/train/good/254.png"
+    ],
+    "splicing_connectors/test/good/104.png": [
+        "splicing_connectors/train/good/218.png"
+    ],
+    "splicing_connectors/test/good/105.png": [
+        "splicing_connectors/train/good/288.png"
+    ],
+    "splicing_connectors/test/good/106.png": [
+        "splicing_connectors/train/good/031.png"
+    ],
+    "splicing_connectors/test/good/107.png": [
+        "splicing_connectors/train/good/242.png"
+    ],
+    "splicing_connectors/test/good/108.png": [
+        "splicing_connectors/train/good/213.png"
+    ],
+    "splicing_connectors/test/good/109.png": [
+        "splicing_connectors/train/good/086.png"
+    ],
+    "splicing_connectors/test/good/110.png": [
+        "splicing_connectors/train/good/096.png"
+    ],
+    "splicing_connectors/test/good/111.png": [
+        "splicing_connectors/train/good/265.png"
+    ],
+    "splicing_connectors/test/good/112.png": [
+        "splicing_connectors/train/good/198.png"
+    ],
+    "splicing_connectors/test/good/113.png": [
+        "splicing_connectors/train/good/239.png"
+    ],
+    "splicing_connectors/test/good/114.png": [
+        "splicing_connectors/train/good/291.png"
+    ],
+    "splicing_connectors/test/good/115.png": [
+        "splicing_connectors/train/good/036.png"
+    ],
+    "splicing_connectors/test/good/116.png": [
+        "splicing_connectors/train/good/113.png"
+    ],
+    "splicing_connectors/test/good/117.png": [
+        "splicing_connectors/train/good/329.png"
+    ],
+    "splicing_connectors/test/good/118.png": [
+        "splicing_connectors/train/good/196.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/000.png": [
+        "splicing_connectors/train/good/050.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/001.png": [
+        "splicing_connectors/train/good/231.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/002.png": [
+        "splicing_connectors/train/good/329.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/003.png": [
+        "splicing_connectors/train/good/030.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/004.png": [
+        "splicing_connectors/train/good/349.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/005.png": [
+        "splicing_connectors/train/good/166.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/006.png": [
+        "splicing_connectors/train/good/089.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/007.png": [
+        "splicing_connectors/train/good/268.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/008.png": [
+        "splicing_connectors/train/good/003.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/009.png": [
+        "splicing_connectors/train/good/029.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/010.png": [
+        "splicing_connectors/train/good/170.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/011.png": [
+        "splicing_connectors/train/good/094.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/012.png": [
+        "splicing_connectors/train/good/219.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/013.png": [
+        "splicing_connectors/train/good/297.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/014.png": [
+        "splicing_connectors/train/good/039.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/015.png": [
+        "splicing_connectors/train/good/324.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/016.png": [
+        "splicing_connectors/train/good/202.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/017.png": [
+        "splicing_connectors/train/good/051.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/018.png": [
+        "splicing_connectors/train/good/161.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/019.png": [
+        "splicing_connectors/train/good/042.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/020.png": [
+        "splicing_connectors/train/good/153.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/021.png": [
+        "splicing_connectors/train/good/278.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/022.png": [
+        "splicing_connectors/train/good/254.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/023.png": [
+        "splicing_connectors/train/good/341.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/024.png": [
+        "splicing_connectors/train/good/034.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/025.png": [
+        "splicing_connectors/train/good/229.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/026.png": [
+        "splicing_connectors/train/good/240.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/027.png": [
+        "splicing_connectors/train/good/172.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/028.png": [
+        "splicing_connectors/train/good/037.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/029.png": [
+        "splicing_connectors/train/good/281.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/030.png": [
+        "splicing_connectors/train/good/205.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/031.png": [
+        "splicing_connectors/train/good/165.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/032.png": [
+        "splicing_connectors/train/good/301.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/033.png": [
+        "splicing_connectors/train/good/113.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/034.png": [
+        "splicing_connectors/train/good/228.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/035.png": [
+        "splicing_connectors/train/good/018.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/036.png": [
+        "splicing_connectors/train/good/096.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/037.png": [
+        "splicing_connectors/train/good/355.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/038.png": [
+        "splicing_connectors/train/good/115.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/039.png": [
+        "splicing_connectors/train/good/276.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/040.png": [
+        "splicing_connectors/train/good/070.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/041.png": [
+        "splicing_connectors/train/good/358.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/042.png": [
+        "splicing_connectors/train/good/343.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/043.png": [
+        "splicing_connectors/train/good/059.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/044.png": [
+        "splicing_connectors/train/good/082.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/045.png": [
+        "splicing_connectors/train/good/216.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/046.png": [
+        "splicing_connectors/train/good/232.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/047.png": [
+        "splicing_connectors/train/good/135.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/048.png": [
+        "splicing_connectors/train/good/325.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/049.png": [
+        "splicing_connectors/train/good/196.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/050.png": [
+        "splicing_connectors/train/good/298.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/051.png": [
+        "splicing_connectors/train/good/034.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/052.png": [
+        "splicing_connectors/train/good/200.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/053.png": [
+        "splicing_connectors/train/good/247.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/054.png": [
+        "splicing_connectors/train/good/316.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/055.png": [
+        "splicing_connectors/train/good/125.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/056.png": [
+        "splicing_connectors/train/good/013.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/057.png": [
+        "splicing_connectors/train/good/046.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/058.png": [
+        "splicing_connectors/train/good/052.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/059.png": [
+        "splicing_connectors/train/good/161.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/060.png": [
+        "splicing_connectors/train/good/312.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/061.png": [
+        "splicing_connectors/train/good/261.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/062.png": [
+        "splicing_connectors/train/good/216.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/063.png": [
+        "splicing_connectors/train/good/261.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/064.png": [
+        "splicing_connectors/train/good/270.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/065.png": [
+        "splicing_connectors/train/good/027.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/066.png": [
+        "splicing_connectors/train/good/112.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/067.png": [
+        "splicing_connectors/train/good/216.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/068.png": [
+        "splicing_connectors/train/good/019.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/069.png": [
+        "splicing_connectors/train/good/219.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/070.png": [
+        "splicing_connectors/train/good/343.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/071.png": [
+        "splicing_connectors/train/good/119.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/072.png": [
+        "splicing_connectors/train/good/211.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/073.png": [
+        "splicing_connectors/train/good/162.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/074.png": [
+        "splicing_connectors/train/good/309.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/075.png": [
+        "splicing_connectors/train/good/024.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/076.png": [
+        "splicing_connectors/train/good/043.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/077.png": [
+        "splicing_connectors/train/good/099.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/078.png": [
+        "splicing_connectors/train/good/132.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/079.png": [
+        "splicing_connectors/train/good/031.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/080.png": [
+        "splicing_connectors/train/good/332.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/081.png": [
+        "splicing_connectors/train/good/342.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/082.png": [
+        "splicing_connectors/train/good/045.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/083.png": [
+        "splicing_connectors/train/good/261.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/084.png": [
+        "splicing_connectors/train/good/233.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/085.png": [
+        "splicing_connectors/train/good/106.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/086.png": [
+        "splicing_connectors/train/good/333.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/087.png": [
+        "splicing_connectors/train/good/209.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/088.png": [
+        "splicing_connectors/train/good/346.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/089.png": [
+        "splicing_connectors/train/good/262.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/090.png": [
+        "splicing_connectors/train/good/012.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/091.png": [
+        "splicing_connectors/train/good/008.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/092.png": [
+        "splicing_connectors/train/good/108.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/093.png": [
+        "splicing_connectors/train/good/203.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/094.png": [
+        "splicing_connectors/train/good/205.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/095.png": [
+        "splicing_connectors/train/good/330.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/096.png": [
+        "splicing_connectors/train/good/096.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/097.png": [
+        "splicing_connectors/train/good/085.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/098.png": [
+        "splicing_connectors/train/good/347.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/099.png": [
+        "splicing_connectors/train/good/291.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/100.png": [
+        "splicing_connectors/train/good/101.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/101.png": [
+        "splicing_connectors/train/good/079.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/102.png": [
+        "splicing_connectors/train/good/319.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/103.png": [
+        "splicing_connectors/train/good/104.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/104.png": [
+        "splicing_connectors/train/good/327.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/105.png": [
+        "splicing_connectors/train/good/303.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/106.png": [
+        "splicing_connectors/train/good/311.png"
+    ],
+    "splicing_connectors/test/logical_anomalies/107.png": [
+        "splicing_connectors/train/good/064.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/000.png": [
+        "splicing_connectors/train/good/096.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/001.png": [
+        "splicing_connectors/train/good/078.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/002.png": [
+        "splicing_connectors/train/good/219.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/003.png": [
+        "splicing_connectors/train/good/324.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/004.png": [
+        "splicing_connectors/train/good/174.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/005.png": [
+        "splicing_connectors/train/good/191.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/006.png": [
+        "splicing_connectors/train/good/241.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/007.png": [
+        "splicing_connectors/train/good/296.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/008.png": [
+        "splicing_connectors/train/good/268.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/009.png": [
+        "splicing_connectors/train/good/239.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/010.png": [
+        "splicing_connectors/train/good/016.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/011.png": [
+        "splicing_connectors/train/good/027.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/012.png": [
+        "splicing_connectors/train/good/282.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/013.png": [
+        "splicing_connectors/train/good/243.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/014.png": [
+        "splicing_connectors/train/good/066.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/015.png": [
+        "splicing_connectors/train/good/274.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/016.png": [
+        "splicing_connectors/train/good/153.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/017.png": [
+        "splicing_connectors/train/good/262.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/018.png": [
+        "splicing_connectors/train/good/205.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/019.png": [
+        "splicing_connectors/train/good/011.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/020.png": [
+        "splicing_connectors/train/good/068.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/021.png": [
+        "splicing_connectors/train/good/071.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/022.png": [
+        "splicing_connectors/train/good/342.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/023.png": [
+        "splicing_connectors/train/good/040.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/024.png": [
+        "splicing_connectors/train/good/184.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/025.png": [
+        "splicing_connectors/train/good/015.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/026.png": [
+        "splicing_connectors/train/good/315.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/027.png": [
+        "splicing_connectors/train/good/047.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/028.png": [
+        "splicing_connectors/train/good/107.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/029.png": [
+        "splicing_connectors/train/good/042.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/030.png": [
+        "splicing_connectors/train/good/221.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/031.png": [
+        "splicing_connectors/train/good/026.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/032.png": [
+        "splicing_connectors/train/good/085.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/033.png": [
+        "splicing_connectors/train/good/120.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/034.png": [
+        "splicing_connectors/train/good/320.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/035.png": [
+        "splicing_connectors/train/good/145.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/036.png": [
+        "splicing_connectors/train/good/129.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/037.png": [
+        "splicing_connectors/train/good/095.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/038.png": [
+        "splicing_connectors/train/good/004.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/039.png": [
+        "splicing_connectors/train/good/261.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/040.png": [
+        "splicing_connectors/train/good/259.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/041.png": [
+        "splicing_connectors/train/good/262.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/042.png": [
+        "splicing_connectors/train/good/112.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/043.png": [
+        "splicing_connectors/train/good/340.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/044.png": [
+        "splicing_connectors/train/good/234.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/045.png": [
+        "splicing_connectors/train/good/110.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/046.png": [
+        "splicing_connectors/train/good/212.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/047.png": [
+        "splicing_connectors/train/good/198.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/048.png": [
+        "splicing_connectors/train/good/339.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/049.png": [
+        "splicing_connectors/train/good/026.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/050.png": [
+        "splicing_connectors/train/good/224.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/051.png": [
+        "splicing_connectors/train/good/053.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/052.png": [
+        "splicing_connectors/train/good/023.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/053.png": [
+        "splicing_connectors/train/good/114.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/054.png": [
+        "splicing_connectors/train/good/186.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/055.png": [
+        "splicing_connectors/train/good/001.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/056.png": [
+        "splicing_connectors/train/good/150.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/057.png": [
+        "splicing_connectors/train/good/313.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/058.png": [
+        "splicing_connectors/train/good/072.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/059.png": [
+        "splicing_connectors/train/good/170.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/060.png": [
+        "splicing_connectors/train/good/263.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/061.png": [
+        "splicing_connectors/train/good/321.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/062.png": [
+        "splicing_connectors/train/good/225.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/063.png": [
+        "splicing_connectors/train/good/222.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/064.png": [
+        "splicing_connectors/train/good/186.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/065.png": [
+        "splicing_connectors/train/good/262.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/066.png": [
+        "splicing_connectors/train/good/234.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/067.png": [
+        "splicing_connectors/train/good/277.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/068.png": [
+        "splicing_connectors/train/good/268.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/069.png": [
+        "splicing_connectors/train/good/064.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/070.png": [
+        "splicing_connectors/train/good/124.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/071.png": [
+        "splicing_connectors/train/good/281.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/072.png": [
+        "splicing_connectors/train/good/073.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/073.png": [
+        "splicing_connectors/train/good/189.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/074.png": [
+        "splicing_connectors/train/good/170.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/075.png": [
+        "splicing_connectors/train/good/164.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/076.png": [
+        "splicing_connectors/train/good/178.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/077.png": [
+        "splicing_connectors/train/good/277.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/078.png": [
+        "splicing_connectors/train/good/224.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/079.png": [
+        "splicing_connectors/train/good/342.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/080.png": [
+        "splicing_connectors/train/good/044.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/081.png": [
+        "splicing_connectors/train/good/066.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/082.png": [
+        "splicing_connectors/train/good/272.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/083.png": [
+        "splicing_connectors/train/good/058.png"
+    ],
+    "splicing_connectors/test/structural_anomalies/084.png": [
+        "splicing_connectors/train/good/123.png"
+    ]
+}
