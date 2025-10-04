@@ -1,0 +1,1025 @@
+{
+    "screw_bag/test/good/000.png": [
+        "screw_bag/train/good/224.png"
+    ],
+    "screw_bag/test/good/001.png": [
+        "screw_bag/train/good/030.png"
+    ],
+    "screw_bag/test/good/002.png": [
+        "screw_bag/train/good/068.png"
+    ],
+    "screw_bag/test/good/003.png": [
+        "screw_bag/train/good/161.png"
+    ],
+    "screw_bag/test/good/004.png": [
+        "screw_bag/train/good/223.png"
+    ],
+    "screw_bag/test/good/005.png": [
+        "screw_bag/train/good/219.png"
+    ],
+    "screw_bag/test/good/006.png": [
+        "screw_bag/train/good/068.png"
+    ],
+    "screw_bag/test/good/007.png": [
+        "screw_bag/train/good/178.png"
+    ],
+    "screw_bag/test/good/008.png": [
+        "screw_bag/train/good/352.png"
+    ],
+    "screw_bag/test/good/009.png": [
+        "screw_bag/train/good/208.png"
+    ],
+    "screw_bag/test/good/010.png": [
+        "screw_bag/train/good/293.png"
+    ],
+    "screw_bag/test/good/011.png": [
+        "screw_bag/train/good/161.png"
+    ],
+    "screw_bag/test/good/012.png": [
+        "screw_bag/train/good/293.png"
+    ],
+    "screw_bag/test/good/013.png": [
+        "screw_bag/train/good/157.png"
+    ],
+    "screw_bag/test/good/014.png": [
+        "screw_bag/train/good/010.png"
+    ],
+    "screw_bag/test/good/015.png": [
+        "screw_bag/train/good/117.png"
+    ],
+    "screw_bag/test/good/016.png": [
+        "screw_bag/train/good/164.png"
+    ],
+    "screw_bag/test/good/017.png": [
+        "screw_bag/train/good/145.png"
+    ],
+    "screw_bag/test/good/018.png": [
+        "screw_bag/train/good/212.png"
+    ],
+    "screw_bag/test/good/019.png": [
+        "screw_bag/train/good/194.png"
+    ],
+    "screw_bag/test/good/020.png": [
+        "screw_bag/train/good/102.png"
+    ],
+    "screw_bag/test/good/021.png": [
+        "screw_bag/train/good/240.png"
+    ],
+    "screw_bag/test/good/022.png": [
+        "screw_bag/train/good/105.png"
+    ],
+    "screw_bag/test/good/023.png": [
+        "screw_bag/train/good/142.png"
+    ],
+    "screw_bag/test/good/024.png": [
+        "screw_bag/train/good/002.png"
+    ],
+    "screw_bag/test/good/025.png": [
+        "screw_bag/train/good/062.png"
+    ],
+    "screw_bag/test/good/026.png": [
+        "screw_bag/train/good/090.png"
+    ],
+    "screw_bag/test/good/027.png": [
+        "screw_bag/train/good/146.png"
+    ],
+    "screw_bag/test/good/028.png": [
+        "screw_bag/train/good/094.png"
+    ],
+    "screw_bag/test/good/029.png": [
+        "screw_bag/train/good/128.png"
+    ],
+    "screw_bag/test/good/030.png": [
+        "screw_bag/train/good/134.png"
+    ],
+    "screw_bag/test/good/031.png": [
+        "screw_bag/train/good/142.png"
+    ],
+    "screw_bag/test/good/032.png": [
+        "screw_bag/train/good/163.png"
+    ],
+    "screw_bag/test/good/033.png": [
+        "screw_bag/train/good/301.png"
+    ],
+    "screw_bag/test/good/034.png": [
+        "screw_bag/train/good/291.png"
+    ],
+    "screw_bag/test/good/035.png": [
+        "screw_bag/train/good/026.png"
+    ],
+    "screw_bag/test/good/036.png": [
+        "screw_bag/train/good/029.png"
+    ],
+    "screw_bag/test/good/037.png": [
+        "screw_bag/train/good/030.png"
+    ],
+    "screw_bag/test/good/038.png": [
+        "screw_bag/train/good/057.png"
+    ],
+    "screw_bag/test/good/039.png": [
+        "screw_bag/train/good/010.png"
+    ],
+    "screw_bag/test/good/040.png": [
+        "screw_bag/train/good/194.png"
+    ],
+    "screw_bag/test/good/041.png": [
+        "screw_bag/train/good/281.png"
+    ],
+    "screw_bag/test/good/042.png": [
+        "screw_bag/train/good/178.png"
+    ],
+    "screw_bag/test/good/043.png": [
+        "screw_bag/train/good/150.png"
+    ],
+    "screw_bag/test/good/044.png": [
+        "screw_bag/train/good/161.png"
+    ],
+    "screw_bag/test/good/045.png": [
+        "screw_bag/train/good/090.png"
+    ],
+    "screw_bag/test/good/046.png": [
+        "screw_bag/train/good/291.png"
+    ],
+    "screw_bag/test/good/047.png": [
+        "screw_bag/train/good/090.png"
+    ],
+    "screw_bag/test/good/048.png": [
+        "screw_bag/train/good/057.png"
+    ],
+    "screw_bag/test/good/049.png": [
+        "screw_bag/train/good/346.png"
+    ],
+    "screw_bag/test/good/050.png": [
+        "screw_bag/train/good/121.png"
+    ],
+    "screw_bag/test/good/051.png": [
+        "screw_bag/train/good/293.png"
+    ],
+    "screw_bag/test/good/052.png": [
+        "screw_bag/train/good/178.png"
+    ],
+    "screw_bag/test/good/053.png": [
+        "screw_bag/train/good/087.png"
+    ],
+    "screw_bag/test/good/054.png": [
+        "screw_bag/train/good/145.png"
+    ],
+    "screw_bag/test/good/055.png": [
+        "screw_bag/train/good/182.png"
+    ],
+    "screw_bag/test/good/056.png": [
+        "screw_bag/train/good/293.png"
+    ],
+    "screw_bag/test/good/057.png": [
+        "screw_bag/train/good/033.png"
+    ],
+    "screw_bag/test/good/058.png": [
+        "screw_bag/train/good/291.png"
+    ],
+    "screw_bag/test/good/059.png": [
+        "screw_bag/train/good/223.png"
+    ],
+    "screw_bag/test/good/060.png": [
+        "screw_bag/train/good/178.png"
+    ],
+    "screw_bag/test/good/061.png": [
+        "screw_bag/train/good/049.png"
+    ],
+    "screw_bag/test/good/062.png": [
+        "screw_bag/train/good/281.png"
+    ],
+    "screw_bag/test/good/063.png": [
+        "screw_bag/train/good/178.png"
+    ],
+    "screw_bag/test/good/064.png": [
+        "screw_bag/train/good/138.png"
+    ],
+    "screw_bag/test/good/065.png": [
+        "screw_bag/train/good/111.png"
+    ],
+    "screw_bag/test/good/066.png": [
+        "screw_bag/train/good/146.png"
+    ],
+    "screw_bag/test/good/067.png": [
+        "screw_bag/train/good/319.png"
+    ],
+    "screw_bag/test/good/068.png": [
+        "screw_bag/train/good/145.png"
+    ],
+    "screw_bag/test/good/069.png": [
+        "screw_bag/train/good/203.png"
+    ],
+    "screw_bag/test/good/070.png": [
+        "screw_bag/train/good/260.png"
+    ],
+    "screw_bag/test/good/071.png": [
+        "screw_bag/train/good/303.png"
+    ],
+    "screw_bag/test/good/072.png": [
+        "screw_bag/train/good/161.png"
+    ],
+    "screw_bag/test/good/073.png": [
+        "screw_bag/train/good/068.png"
+    ],
+    "screw_bag/test/good/074.png": [
+        "screw_bag/train/good/261.png"
+    ],
+    "screw_bag/test/good/075.png": [
+        "screw_bag/train/good/105.png"
+    ],
+    "screw_bag/test/good/076.png": [
+        "screw_bag/train/good/021.png"
+    ],
+    "screw_bag/test/good/077.png": [
+        "screw_bag/train/good/164.png"
+    ],
+    "screw_bag/test/good/078.png": [
+        "screw_bag/train/good/229.png"
+    ],
+    "screw_bag/test/good/079.png": [
+        "screw_bag/train/good/198.png"
+    ],
+    "screw_bag/test/good/080.png": [
+        "screw_bag/train/good/068.png"
+    ],
+    "screw_bag/test/good/081.png": [
+        "screw_bag/train/good/223.png"
+    ],
+    "screw_bag/test/good/082.png": [
+        "screw_bag/train/good/071.png"
+    ],
+    "screw_bag/test/good/083.png": [
+        "screw_bag/train/good/291.png"
+    ],
+    "screw_bag/test/good/084.png": [
+        "screw_bag/train/good/310.png"
+    ],
+    "screw_bag/test/good/085.png": [
+        "screw_bag/train/good/033.png"
+    ],
+    "screw_bag/test/good/086.png": [
+        "screw_bag/train/good/145.png"
+    ],
+    "screw_bag/test/good/087.png": [
+        "screw_bag/train/good/161.png"
+    ],
+    "screw_bag/test/good/088.png": [
+        "screw_bag/train/good/068.png"
+    ],
+    "screw_bag/test/good/089.png": [
+        "screw_bag/train/good/010.png"
+    ],
+    "screw_bag/test/good/090.png": [
+        "screw_bag/train/good/122.png"
+    ],
+    "screw_bag/test/good/091.png": [
+        "screw_bag/train/good/045.png"
+    ],
+    "screw_bag/test/good/092.png": [
+        "screw_bag/train/good/065.png"
+    ],
+    "screw_bag/test/good/093.png": [
+        "screw_bag/train/good/265.png"
+    ],
+    "screw_bag/test/good/094.png": [
+        "screw_bag/train/good/225.png"
+    ],
+    "screw_bag/test/good/095.png": [
+        "screw_bag/train/good/054.png"
+    ],
+    "screw_bag/test/good/096.png": [
+        "screw_bag/train/good/178.png"
+    ],
+    "screw_bag/test/good/097.png": [
+        "screw_bag/train/good/094.png"
+    ],
+    "screw_bag/test/good/098.png": [
+        "screw_bag/train/good/033.png"
+    ],
+    "screw_bag/test/good/099.png": [
+        "screw_bag/train/good/281.png"
+    ],
+    "screw_bag/test/good/100.png": [
+        "screw_bag/train/good/178.png"
+    ],
+    "screw_bag/test/good/101.png": [
+        "screw_bag/train/good/164.png"
+    ],
+    "screw_bag/test/good/102.png": [
+        "screw_bag/train/good/145.png"
+    ],
+    "screw_bag/test/good/103.png": [
+        "screw_bag/train/good/145.png"
+    ],
+    "screw_bag/test/good/104.png": [
+        "screw_bag/train/good/269.png"
+    ],
+    "screw_bag/test/good/105.png": [
+        "screw_bag/train/good/155.png"
+    ],
+    "screw_bag/test/good/106.png": [
+        "screw_bag/train/good/244.png"
+    ],
+    "screw_bag/test/good/107.png": [
+        "screw_bag/train/good/145.png"
+    ],
+    "screw_bag/test/good/108.png": [
+        "screw_bag/train/good/068.png"
+    ],
+    "screw_bag/test/good/109.png": [
+        "screw_bag/train/good/178.png"
+    ],
+    "screw_bag/test/good/110.png": [
+        "screw_bag/train/good/240.png"
+    ],
+    "screw_bag/test/good/111.png": [
+        "screw_bag/train/good/004.png"
+    ],
+    "screw_bag/test/good/112.png": [
+        "screw_bag/train/good/104.png"
+    ],
+    "screw_bag/test/good/113.png": [
+        "screw_bag/train/good/002.png"
+    ],
+    "screw_bag/test/good/114.png": [
+        "screw_bag/train/good/161.png"
+    ],
+    "screw_bag/test/good/115.png": [
+        "screw_bag/train/good/033.png"
+    ],
+    "screw_bag/test/good/116.png": [
+        "screw_bag/train/good/194.png"
+    ],
+    "screw_bag/test/good/117.png": [
+        "screw_bag/train/good/029.png"
+    ],
+    "screw_bag/test/good/118.png": [
+        "screw_bag/train/good/071.png"
+    ],
+    "screw_bag/test/good/119.png": [
+        "screw_bag/train/good/087.png"
+    ],
+    "screw_bag/test/good/120.png": [
+        "screw_bag/train/good/353.png"
+    ],
+    "screw_bag/test/good/121.png": [
+        "screw_bag/train/good/111.png"
+    ],
+    "screw_bag/test/logical_anomalies/000.png": [
+        "screw_bag/train/good/233.png"
+    ],
+    "screw_bag/test/logical_anomalies/001.png": [
+        "screw_bag/train/good/013.png"
+    ],
+    "screw_bag/test/logical_anomalies/002.png": [
+        "screw_bag/train/good/349.png"
+    ],
+    "screw_bag/test/logical_anomalies/003.png": [
+        "screw_bag/train/good/092.png"
+    ],
+    "screw_bag/test/logical_anomalies/004.png": [
+        "screw_bag/train/good/210.png"
+    ],
+    "screw_bag/test/logical_anomalies/005.png": [
+        "screw_bag/train/good/271.png"
+    ],
+    "screw_bag/test/logical_anomalies/006.png": [
+        "screw_bag/train/good/293.png"
+    ],
+    "screw_bag/test/logical_anomalies/007.png": [
+        "screw_bag/train/good/240.png"
+    ],
+    "screw_bag/test/logical_anomalies/008.png": [
+        "screw_bag/train/good/021.png"
+    ],
+    "screw_bag/test/logical_anomalies/009.png": [
+        "screw_bag/train/good/191.png"
+    ],
+    "screw_bag/test/logical_anomalies/010.png": [
+        "screw_bag/train/good/126.png"
+    ],
+    "screw_bag/test/logical_anomalies/011.png": [
+        "screw_bag/train/good/021.png"
+    ],
+    "screw_bag/test/logical_anomalies/012.png": [
+        "screw_bag/train/good/240.png"
+    ],
+    "screw_bag/test/logical_anomalies/013.png": [
+        "screw_bag/train/good/064.png"
+    ],
+    "screw_bag/test/logical_anomalies/014.png": [
+        "screw_bag/train/good/094.png"
+    ],
+    "screw_bag/test/logical_anomalies/015.png": [
+        "screw_bag/train/good/090.png"
+    ],
+    "screw_bag/test/logical_anomalies/016.png": [
+        "screw_bag/train/good/087.png"
+    ],
+    "screw_bag/test/logical_anomalies/017.png": [
+        "screw_bag/train/good/045.png"
+    ],
+    "screw_bag/test/logical_anomalies/018.png": [
+        "screw_bag/train/good/178.png"
+    ],
+    "screw_bag/test/logical_anomalies/019.png": [
+        "screw_bag/train/good/053.png"
+    ],
+    "screw_bag/test/logical_anomalies/020.png": [
+        "screw_bag/train/good/293.png"
+    ],
+    "screw_bag/test/logical_anomalies/021.png": [
+        "screw_bag/train/good/136.png"
+    ],
+    "screw_bag/test/logical_anomalies/022.png": [
+        "screw_bag/train/good/186.png"
+    ],
+    "screw_bag/test/logical_anomalies/023.png": [
+        "screw_bag/train/good/293.png"
+    ],
+    "screw_bag/test/logical_anomalies/024.png": [
+        "screw_bag/train/good/105.png"
+    ],
+    "screw_bag/test/logical_anomalies/025.png": [
+        "screw_bag/train/good/178.png"
+    ],
+    "screw_bag/test/logical_anomalies/026.png": [
+        "screw_bag/train/good/165.png"
+    ],
+    "screw_bag/test/logical_anomalies/027.png": [
+        "screw_bag/train/good/057.png"
+    ],
+    "screw_bag/test/logical_anomalies/028.png": [
+        "screw_bag/train/good/178.png"
+    ],
+    "screw_bag/test/logical_anomalies/029.png": [
+        "screw_bag/train/good/303.png"
+    ],
+    "screw_bag/test/logical_anomalies/030.png": [
+        "screw_bag/train/good/350.png"
+    ],
+    "screw_bag/test/logical_anomalies/031.png": [
+        "screw_bag/train/good/161.png"
+    ],
+    "screw_bag/test/logical_anomalies/032.png": [
+        "screw_bag/train/good/178.png"
+    ],
+    "screw_bag/test/logical_anomalies/033.png": [
+        "screw_bag/train/good/080.png"
+    ],
+    "screw_bag/test/logical_anomalies/034.png": [
+        "screw_bag/train/good/080.png"
+    ],
+    "screw_bag/test/logical_anomalies/035.png": [
+        "screw_bag/train/good/105.png"
+    ],
+    "screw_bag/test/logical_anomalies/036.png": [
+        "screw_bag/train/good/244.png"
+    ],
+    "screw_bag/test/logical_anomalies/037.png": [
+        "screw_bag/train/good/105.png"
+    ],
+    "screw_bag/test/logical_anomalies/038.png": [
+        "screw_bag/train/good/317.png"
+    ],
+    "screw_bag/test/logical_anomalies/039.png": [
+        "screw_bag/train/good/178.png"
+    ],
+    "screw_bag/test/logical_anomalies/040.png": [
+        "screw_bag/train/good/291.png"
+    ],
+    "screw_bag/test/logical_anomalies/041.png": [
+        "screw_bag/train/good/271.png"
+    ],
+    "screw_bag/test/logical_anomalies/042.png": [
+        "screw_bag/train/good/261.png"
+    ],
+    "screw_bag/test/logical_anomalies/043.png": [
+        "screw_bag/train/good/057.png"
+    ],
+    "screw_bag/test/logical_anomalies/044.png": [
+        "screw_bag/train/good/146.png"
+    ],
+    "screw_bag/test/logical_anomalies/045.png": [
+        "screw_bag/train/good/264.png"
+    ],
+    "screw_bag/test/logical_anomalies/046.png": [
+        "screw_bag/train/good/021.png"
+    ],
+    "screw_bag/test/logical_anomalies/047.png": [
+        "screw_bag/train/good/105.png"
+    ],
+    "screw_bag/test/logical_anomalies/048.png": [
+        "screw_bag/train/good/178.png"
+    ],
+    "screw_bag/test/logical_anomalies/049.png": [
+        "screw_bag/train/good/215.png"
+    ],
+    "screw_bag/test/logical_anomalies/050.png": [
+        "screw_bag/train/good/281.png"
+    ],
+    "screw_bag/test/logical_anomalies/051.png": [
+        "screw_bag/train/good/021.png"
+    ],
+    "screw_bag/test/logical_anomalies/052.png": [
+        "screw_bag/train/good/080.png"
+    ],
+    "screw_bag/test/logical_anomalies/053.png": [
+        "screw_bag/train/good/265.png"
+    ],
+    "screw_bag/test/logical_anomalies/054.png": [
+        "screw_bag/train/good/165.png"
+    ],
+    "screw_bag/test/logical_anomalies/055.png": [
+        "screw_bag/train/good/161.png"
+    ],
+    "screw_bag/test/logical_anomalies/056.png": [
+        "screw_bag/train/good/145.png"
+    ],
+    "screw_bag/test/logical_anomalies/057.png": [
+        "screw_bag/train/good/091.png"
+    ],
+    "screw_bag/test/logical_anomalies/058.png": [
+        "screw_bag/train/good/178.png"
+    ],
+    "screw_bag/test/logical_anomalies/059.png": [
+        "screw_bag/train/good/350.png"
+    ],
+    "screw_bag/test/logical_anomalies/060.png": [
+        "screw_bag/train/good/105.png"
+    ],
+    "screw_bag/test/logical_anomalies/061.png": [
+        "screw_bag/train/good/271.png"
+    ],
+    "screw_bag/test/logical_anomalies/062.png": [
+        "screw_bag/train/good/046.png"
+    ],
+    "screw_bag/test/logical_anomalies/063.png": [
+        "screw_bag/train/good/191.png"
+    ],
+    "screw_bag/test/logical_anomalies/064.png": [
+        "screw_bag/train/good/072.png"
+    ],
+    "screw_bag/test/logical_anomalies/065.png": [
+        "screw_bag/train/good/150.png"
+    ],
+    "screw_bag/test/logical_anomalies/066.png": [
+        "screw_bag/train/good/094.png"
+    ],
+    "screw_bag/test/logical_anomalies/067.png": [
+        "screw_bag/train/good/178.png"
+    ],
+    "screw_bag/test/logical_anomalies/068.png": [
+        "screw_bag/train/good/178.png"
+    ],
+    "screw_bag/test/logical_anomalies/069.png": [
+        "screw_bag/train/good/281.png"
+    ],
+    "screw_bag/test/logical_anomalies/070.png": [
+        "screw_bag/train/good/065.png"
+    ],
+    "screw_bag/test/logical_anomalies/071.png": [
+        "screw_bag/train/good/281.png"
+    ],
+    "screw_bag/test/logical_anomalies/072.png": [
+        "screw_bag/train/good/274.png"
+    ],
+    "screw_bag/test/logical_anomalies/073.png": [
+        "screw_bag/train/good/194.png"
+    ],
+    "screw_bag/test/logical_anomalies/074.png": [
+        "screw_bag/train/good/066.png"
+    ],
+    "screw_bag/test/logical_anomalies/075.png": [
+        "screw_bag/train/good/281.png"
+    ],
+    "screw_bag/test/logical_anomalies/076.png": [
+        "screw_bag/train/good/074.png"
+    ],
+    "screw_bag/test/logical_anomalies/077.png": [
+        "screw_bag/train/good/016.png"
+    ],
+    "screw_bag/test/logical_anomalies/078.png": [
+        "screw_bag/train/good/249.png"
+    ],
+    "screw_bag/test/logical_anomalies/079.png": [
+        "screw_bag/train/good/286.png"
+    ],
+    "screw_bag/test/logical_anomalies/080.png": [
+        "screw_bag/train/good/090.png"
+    ],
+    "screw_bag/test/logical_anomalies/081.png": [
+        "screw_bag/train/good/265.png"
+    ],
+    "screw_bag/test/logical_anomalies/082.png": [
+        "screw_bag/train/good/021.png"
+    ],
+    "screw_bag/test/logical_anomalies/083.png": [
+        "screw_bag/train/good/186.png"
+    ],
+    "screw_bag/test/logical_anomalies/084.png": [
+        "screw_bag/train/good/321.png"
+    ],
+    "screw_bag/test/logical_anomalies/085.png": [
+        "screw_bag/train/good/026.png"
+    ],
+    "screw_bag/test/logical_anomalies/086.png": [
+        "screw_bag/train/good/026.png"
+    ],
+    "screw_bag/test/logical_anomalies/087.png": [
+        "screw_bag/train/good/092.png"
+    ],
+    "screw_bag/test/logical_anomalies/088.png": [
+        "screw_bag/train/good/178.png"
+    ],
+    "screw_bag/test/logical_anomalies/089.png": [
+        "screw_bag/train/good/021.png"
+    ],
+    "screw_bag/test/logical_anomalies/090.png": [
+        "screw_bag/train/good/073.png"
+    ],
+    "screw_bag/test/logical_anomalies/091.png": [
+        "screw_bag/train/good/281.png"
+    ],
+    "screw_bag/test/logical_anomalies/092.png": [
+        "screw_bag/train/good/114.png"
+    ],
+    "screw_bag/test/logical_anomalies/093.png": [
+        "screw_bag/train/good/249.png"
+    ],
+    "screw_bag/test/logical_anomalies/094.png": [
+        "screw_bag/train/good/133.png"
+    ],
+    "screw_bag/test/logical_anomalies/095.png": [
+        "screw_bag/train/good/111.png"
+    ],
+    "screw_bag/test/logical_anomalies/096.png": [
+        "screw_bag/train/good/194.png"
+    ],
+    "screw_bag/test/logical_anomalies/097.png": [
+        "screw_bag/train/good/300.png"
+    ],
+    "screw_bag/test/logical_anomalies/098.png": [
+        "screw_bag/train/good/111.png"
+    ],
+    "screw_bag/test/logical_anomalies/099.png": [
+        "screw_bag/train/good/256.png"
+    ],
+    "screw_bag/test/logical_anomalies/100.png": [
+        "screw_bag/train/good/072.png"
+    ],
+    "screw_bag/test/logical_anomalies/101.png": [
+        "screw_bag/train/good/219.png"
+    ],
+    "screw_bag/test/logical_anomalies/102.png": [
+        "screw_bag/train/good/165.png"
+    ],
+    "screw_bag/test/logical_anomalies/103.png": [
+        "screw_bag/train/good/218.png"
+    ],
+    "screw_bag/test/logical_anomalies/104.png": [
+        "screw_bag/train/good/210.png"
+    ],
+    "screw_bag/test/logical_anomalies/105.png": [
+        "screw_bag/train/good/029.png"
+    ],
+    "screw_bag/test/logical_anomalies/106.png": [
+        "screw_bag/train/good/029.png"
+    ],
+    "screw_bag/test/logical_anomalies/107.png": [
+        "screw_bag/train/good/165.png"
+    ],
+    "screw_bag/test/logical_anomalies/108.png": [
+        "screw_bag/train/good/256.png"
+    ],
+    "screw_bag/test/logical_anomalies/109.png": [
+        "screw_bag/train/good/249.png"
+    ],
+    "screw_bag/test/logical_anomalies/110.png": [
+        "screw_bag/train/good/130.png"
+    ],
+    "screw_bag/test/logical_anomalies/111.png": [
+        "screw_bag/train/good/094.png"
+    ],
+    "screw_bag/test/logical_anomalies/112.png": [
+        "screw_bag/train/good/110.png"
+    ],
+    "screw_bag/test/logical_anomalies/113.png": [
+        "screw_bag/train/good/247.png"
+    ],
+    "screw_bag/test/logical_anomalies/114.png": [
+        "screw_bag/train/good/235.png"
+    ],
+    "screw_bag/test/logical_anomalies/115.png": [
+        "screw_bag/train/good/178.png"
+    ],
+    "screw_bag/test/logical_anomalies/116.png": [
+        "screw_bag/train/good/171.png"
+    ],
+    "screw_bag/test/logical_anomalies/117.png": [
+        "screw_bag/train/good/281.png"
+    ],
+    "screw_bag/test/logical_anomalies/118.png": [
+        "screw_bag/train/good/142.png"
+    ],
+    "screw_bag/test/logical_anomalies/119.png": [
+        "screw_bag/train/good/021.png"
+    ],
+    "screw_bag/test/logical_anomalies/120.png": [
+        "screw_bag/train/good/191.png"
+    ],
+    "screw_bag/test/logical_anomalies/121.png": [
+        "screw_bag/train/good/001.png"
+    ],
+    "screw_bag/test/logical_anomalies/122.png": [
+        "screw_bag/train/good/090.png"
+    ],
+    "screw_bag/test/logical_anomalies/123.png": [
+        "screw_bag/train/good/271.png"
+    ],
+    "screw_bag/test/logical_anomalies/124.png": [
+        "screw_bag/train/good/330.png"
+    ],
+    "screw_bag/test/logical_anomalies/125.png": [
+        "screw_bag/train/good/257.png"
+    ],
+    "screw_bag/test/logical_anomalies/126.png": [
+        "screw_bag/train/good/029.png"
+    ],
+    "screw_bag/test/logical_anomalies/127.png": [
+        "screw_bag/train/good/090.png"
+    ],
+    "screw_bag/test/logical_anomalies/128.png": [
+        "screw_bag/train/good/186.png"
+    ],
+    "screw_bag/test/logical_anomalies/129.png": [
+        "screw_bag/train/good/145.png"
+    ],
+    "screw_bag/test/logical_anomalies/130.png": [
+        "screw_bag/train/good/178.png"
+    ],
+    "screw_bag/test/logical_anomalies/131.png": [
+        "screw_bag/train/good/281.png"
+    ],
+    "screw_bag/test/logical_anomalies/132.png": [
+        "screw_bag/train/good/212.png"
+    ],
+    "screw_bag/test/logical_anomalies/133.png": [
+        "screw_bag/train/good/178.png"
+    ],
+    "screw_bag/test/logical_anomalies/134.png": [
+        "screw_bag/train/good/114.png"
+    ],
+    "screw_bag/test/logical_anomalies/135.png": [
+        "screw_bag/train/good/090.png"
+    ],
+    "screw_bag/test/logical_anomalies/136.png": [
+        "screw_bag/train/good/094.png"
+    ],
+    "screw_bag/test/structural_anomalies/000.png": [
+        "screw_bag/train/good/080.png"
+    ],
+    "screw_bag/test/structural_anomalies/001.png": [
+        "screw_bag/train/good/178.png"
+    ],
+    "screw_bag/test/structural_anomalies/002.png": [
+        "screw_bag/train/good/293.png"
+    ],
+    "screw_bag/test/structural_anomalies/003.png": [
+        "screw_bag/train/good/242.png"
+    ],
+    "screw_bag/test/structural_anomalies/004.png": [
+        "screw_bag/train/good/244.png"
+    ],
+    "screw_bag/test/structural_anomalies/005.png": [
+        "screw_bag/train/good/094.png"
+    ],
+    "screw_bag/test/structural_anomalies/006.png": [
+        "screw_bag/train/good/145.png"
+    ],
+    "screw_bag/test/structural_anomalies/007.png": [
+        "screw_bag/train/good/191.png"
+    ],
+    "screw_bag/test/structural_anomalies/008.png": [
+        "screw_bag/train/good/061.png"
+    ],
+    "screw_bag/test/structural_anomalies/009.png": [
+        "screw_bag/train/good/293.png"
+    ],
+    "screw_bag/test/structural_anomalies/010.png": [
+        "screw_bag/train/good/178.png"
+    ],
+    "screw_bag/test/structural_anomalies/011.png": [
+        "screw_bag/train/good/210.png"
+    ],
+    "screw_bag/test/structural_anomalies/012.png": [
+        "screw_bag/train/good/266.png"
+    ],
+    "screw_bag/test/structural_anomalies/013.png": [
+        "screw_bag/train/good/021.png"
+    ],
+    "screw_bag/test/structural_anomalies/014.png": [
+        "screw_bag/train/good/178.png"
+    ],
+    "screw_bag/test/structural_anomalies/015.png": [
+        "screw_bag/train/good/161.png"
+    ],
+    "screw_bag/test/structural_anomalies/016.png": [
+        "screw_bag/train/good/340.png"
+    ],
+    "screw_bag/test/structural_anomalies/017.png": [
+        "screw_bag/train/good/110.png"
+    ],
+    "screw_bag/test/structural_anomalies/018.png": [
+        "screw_bag/train/good/300.png"
+    ],
+    "screw_bag/test/structural_anomalies/019.png": [
+        "screw_bag/train/good/103.png"
+    ],
+    "screw_bag/test/structural_anomalies/020.png": [
+        "screw_bag/train/good/281.png"
+    ],
+    "screw_bag/test/structural_anomalies/021.png": [
+        "screw_bag/train/good/178.png"
+    ],
+    "screw_bag/test/structural_anomalies/022.png": [
+        "screw_bag/train/good/160.png"
+    ],
+    "screw_bag/test/structural_anomalies/023.png": [
+        "screw_bag/train/good/186.png"
+    ],
+    "screw_bag/test/structural_anomalies/024.png": [
+        "screw_bag/train/good/178.png"
+    ],
+    "screw_bag/test/structural_anomalies/025.png": [
+        "screw_bag/train/good/077.png"
+    ],
+    "screw_bag/test/structural_anomalies/026.png": [
+        "screw_bag/train/good/274.png"
+    ],
+    "screw_bag/test/structural_anomalies/027.png": [
+        "screw_bag/train/good/145.png"
+    ],
+    "screw_bag/test/structural_anomalies/028.png": [
+        "screw_bag/train/good/272.png"
+    ],
+    "screw_bag/test/structural_anomalies/029.png": [
+        "screw_bag/train/good/178.png"
+    ],
+    "screw_bag/test/structural_anomalies/030.png": [
+        "screw_bag/train/good/161.png"
+    ],
+    "screw_bag/test/structural_anomalies/031.png": [
+        "screw_bag/train/good/356.png"
+    ],
+    "screw_bag/test/structural_anomalies/032.png": [
+        "screw_bag/train/good/192.png"
+    ],
+    "screw_bag/test/structural_anomalies/033.png": [
+        "screw_bag/train/good/021.png"
+    ],
+    "screw_bag/test/structural_anomalies/034.png": [
+        "screw_bag/train/good/090.png"
+    ],
+    "screw_bag/test/structural_anomalies/035.png": [
+        "screw_bag/train/good/090.png"
+    ],
+    "screw_bag/test/structural_anomalies/036.png": [
+        "screw_bag/train/good/310.png"
+    ],
+    "screw_bag/test/structural_anomalies/037.png": [
+        "screw_bag/train/good/178.png"
+    ],
+    "screw_bag/test/structural_anomalies/038.png": [
+        "screw_bag/train/good/300.png"
+    ],
+    "screw_bag/test/structural_anomalies/039.png": [
+        "screw_bag/train/good/094.png"
+    ],
+    "screw_bag/test/structural_anomalies/040.png": [
+        "screw_bag/train/good/271.png"
+    ],
+    "screw_bag/test/structural_anomalies/041.png": [
+        "screw_bag/train/good/087.png"
+    ],
+    "screw_bag/test/structural_anomalies/042.png": [
+        "screw_bag/train/good/234.png"
+    ],
+    "screw_bag/test/structural_anomalies/043.png": [
+        "screw_bag/train/good/213.png"
+    ],
+    "screw_bag/test/structural_anomalies/044.png": [
+        "screw_bag/train/good/161.png"
+    ],
+    "screw_bag/test/structural_anomalies/045.png": [
+        "screw_bag/train/good/321.png"
+    ],
+    "screw_bag/test/structural_anomalies/046.png": [
+        "screw_bag/train/good/146.png"
+    ],
+    "screw_bag/test/structural_anomalies/047.png": [
+        "screw_bag/train/good/130.png"
+    ],
+    "screw_bag/test/structural_anomalies/048.png": [
+        "screw_bag/train/good/349.png"
+    ],
+    "screw_bag/test/structural_anomalies/049.png": [
+        "screw_bag/train/good/026.png"
+    ],
+    "screw_bag/test/structural_anomalies/050.png": [
+        "screw_bag/train/good/045.png"
+    ],
+    "screw_bag/test/structural_anomalies/051.png": [
+        "screw_bag/train/good/145.png"
+    ],
+    "screw_bag/test/structural_anomalies/052.png": [
+        "screw_bag/train/good/178.png"
+    ],
+    "screw_bag/test/structural_anomalies/053.png": [
+        "screw_bag/train/good/303.png"
+    ],
+    "screw_bag/test/structural_anomalies/054.png": [
+        "screw_bag/train/good/281.png"
+    ],
+    "screw_bag/test/structural_anomalies/055.png": [
+        "screw_bag/train/good/280.png"
+    ],
+    "screw_bag/test/structural_anomalies/056.png": [
+        "screw_bag/train/good/178.png"
+    ],
+    "screw_bag/test/structural_anomalies/057.png": [
+        "screw_bag/train/good/057.png"
+    ],
+    "screw_bag/test/structural_anomalies/058.png": [
+        "screw_bag/train/good/300.png"
+    ],
+    "screw_bag/test/structural_anomalies/059.png": [
+        "screw_bag/train/good/355.png"
+    ],
+    "screw_bag/test/structural_anomalies/060.png": [
+        "screw_bag/train/good/030.png"
+    ],
+    "screw_bag/test/structural_anomalies/061.png": [
+        "screw_bag/train/good/219.png"
+    ],
+    "screw_bag/test/structural_anomalies/062.png": [
+        "screw_bag/train/good/291.png"
+    ],
+    "screw_bag/test/structural_anomalies/063.png": [
+        "screw_bag/train/good/295.png"
+    ],
+    "screw_bag/test/structural_anomalies/064.png": [
+        "screw_bag/train/good/182.png"
+    ],
+    "screw_bag/test/structural_anomalies/065.png": [
+        "screw_bag/train/good/281.png"
+    ],
+    "screw_bag/test/structural_anomalies/066.png": [
+        "screw_bag/train/good/356.png"
+    ],
+    "screw_bag/test/structural_anomalies/067.png": [
+        "screw_bag/train/good/327.png"
+    ],
+    "screw_bag/test/structural_anomalies/068.png": [
+        "screw_bag/train/good/260.png"
+    ],
+    "screw_bag/test/structural_anomalies/069.png": [
+        "screw_bag/train/good/145.png"
+    ],
+    "screw_bag/test/structural_anomalies/070.png": [
+        "screw_bag/train/good/110.png"
+    ],
+    "screw_bag/test/structural_anomalies/071.png": [
+        "screw_bag/train/good/145.png"
+    ],
+    "screw_bag/test/structural_anomalies/072.png": [
+        "screw_bag/train/good/142.png"
+    ],
+    "screw_bag/test/structural_anomalies/073.png": [
+        "screw_bag/train/good/248.png"
+    ],
+    "screw_bag/test/structural_anomalies/074.png": [
+        "screw_bag/train/good/178.png"
+    ],
+    "screw_bag/test/structural_anomalies/075.png": [
+        "screw_bag/train/good/012.png"
+    ],
+    "screw_bag/test/structural_anomalies/076.png": [
+        "screw_bag/train/good/281.png"
+    ],
+    "screw_bag/test/structural_anomalies/077.png": [
+        "screw_bag/train/good/192.png"
+    ],
+    "screw_bag/test/structural_anomalies/078.png": [
+        "screw_bag/train/good/281.png"
+    ],
+    "screw_bag/test/structural_anomalies/079.png": [
+        "screw_bag/train/good/271.png"
+    ],
+    "screw_bag/test/structural_anomalies/080.png": [
+        "screw_bag/train/good/283.png"
+    ],
+    "screw_bag/test/structural_anomalies/081.png": [
+        "screw_bag/train/good/053.png"
+    ]
+}

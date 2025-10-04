@@ -1,0 +1,992 @@
+{
+    "juice_bottle/test/good/000.png": [
+        "juice_bottle/train/good/240.png"
+    ],
+    "juice_bottle/test/good/001.png": [
+        "juice_bottle/train/good/272.png"
+    ],
+    "juice_bottle/test/good/002.png": [
+        "juice_bottle/train/good/286.png"
+    ],
+    "juice_bottle/test/good/003.png": [
+        "juice_bottle/train/good/105.png"
+    ],
+    "juice_bottle/test/good/004.png": [
+        "juice_bottle/train/good/004.png"
+    ],
+    "juice_bottle/test/good/005.png": [
+        "juice_bottle/train/good/103.png"
+    ],
+    "juice_bottle/test/good/006.png": [
+        "juice_bottle/train/good/035.png"
+    ],
+    "juice_bottle/test/good/007.png": [
+        "juice_bottle/train/good/174.png"
+    ],
+    "juice_bottle/test/good/008.png": [
+        "juice_bottle/train/good/241.png"
+    ],
+    "juice_bottle/test/good/009.png": [
+        "juice_bottle/train/good/049.png"
+    ],
+    "juice_bottle/test/good/010.png": [
+        "juice_bottle/train/good/220.png"
+    ],
+    "juice_bottle/test/good/011.png": [
+        "juice_bottle/train/good/249.png"
+    ],
+    "juice_bottle/test/good/012.png": [
+        "juice_bottle/train/good/327.png"
+    ],
+    "juice_bottle/test/good/013.png": [
+        "juice_bottle/train/good/150.png"
+    ],
+    "juice_bottle/test/good/014.png": [
+        "juice_bottle/train/good/246.png"
+    ],
+    "juice_bottle/test/good/015.png": [
+        "juice_bottle/train/good/136.png"
+    ],
+    "juice_bottle/test/good/016.png": [
+        "juice_bottle/train/good/118.png"
+    ],
+    "juice_bottle/test/good/017.png": [
+        "juice_bottle/train/good/145.png"
+    ],
+    "juice_bottle/test/good/018.png": [
+        "juice_bottle/train/good/229.png"
+    ],
+    "juice_bottle/test/good/019.png": [
+        "juice_bottle/train/good/228.png"
+    ],
+    "juice_bottle/test/good/020.png": [
+        "juice_bottle/train/good/054.png"
+    ],
+    "juice_bottle/test/good/021.png": [
+        "juice_bottle/train/good/070.png"
+    ],
+    "juice_bottle/test/good/022.png": [
+        "juice_bottle/train/good/047.png"
+    ],
+    "juice_bottle/test/good/023.png": [
+        "juice_bottle/train/good/049.png"
+    ],
+    "juice_bottle/test/good/024.png": [
+        "juice_bottle/train/good/073.png"
+    ],
+    "juice_bottle/test/good/025.png": [
+        "juice_bottle/train/good/053.png"
+    ],
+    "juice_bottle/test/good/026.png": [
+        "juice_bottle/train/good/040.png"
+    ],
+    "juice_bottle/test/good/027.png": [
+        "juice_bottle/train/good/191.png"
+    ],
+    "juice_bottle/test/good/028.png": [
+        "juice_bottle/train/good/092.png"
+    ],
+    "juice_bottle/test/good/029.png": [
+        "juice_bottle/train/good/320.png"
+    ],
+    "juice_bottle/test/good/030.png": [
+        "juice_bottle/train/good/079.png"
+    ],
+    "juice_bottle/test/good/031.png": [
+        "juice_bottle/train/good/120.png"
+    ],
+    "juice_bottle/test/good/032.png": [
+        "juice_bottle/train/good/175.png"
+    ],
+    "juice_bottle/test/good/033.png": [
+        "juice_bottle/train/good/139.png"
+    ],
+    "juice_bottle/test/good/034.png": [
+        "juice_bottle/train/good/187.png"
+    ],
+    "juice_bottle/test/good/035.png": [
+        "juice_bottle/train/good/253.png"
+    ],
+    "juice_bottle/test/good/036.png": [
+        "juice_bottle/train/good/266.png"
+    ],
+    "juice_bottle/test/good/037.png": [
+        "juice_bottle/train/good/134.png"
+    ],
+    "juice_bottle/test/good/038.png": [
+        "juice_bottle/train/good/029.png"
+    ],
+    "juice_bottle/test/good/039.png": [
+        "juice_bottle/train/good/158.png"
+    ],
+    "juice_bottle/test/good/040.png": [
+        "juice_bottle/train/good/105.png"
+    ],
+    "juice_bottle/test/good/041.png": [
+        "juice_bottle/train/good/299.png"
+    ],
+    "juice_bottle/test/good/042.png": [
+        "juice_bottle/train/good/122.png"
+    ],
+    "juice_bottle/test/good/043.png": [
+        "juice_bottle/train/good/209.png"
+    ],
+    "juice_bottle/test/good/044.png": [
+        "juice_bottle/train/good/129.png"
+    ],
+    "juice_bottle/test/good/045.png": [
+        "juice_bottle/train/good/132.png"
+    ],
+    "juice_bottle/test/good/046.png": [
+        "juice_bottle/train/good/271.png"
+    ],
+    "juice_bottle/test/good/047.png": [
+        "juice_bottle/train/good/013.png"
+    ],
+    "juice_bottle/test/good/048.png": [
+        "juice_bottle/train/good/174.png"
+    ],
+    "juice_bottle/test/good/049.png": [
+        "juice_bottle/train/good/059.png"
+    ],
+    "juice_bottle/test/good/050.png": [
+        "juice_bottle/train/good/312.png"
+    ],
+    "juice_bottle/test/good/051.png": [
+        "juice_bottle/train/good/326.png"
+    ],
+    "juice_bottle/test/good/052.png": [
+        "juice_bottle/train/good/209.png"
+    ],
+    "juice_bottle/test/good/053.png": [
+        "juice_bottle/train/good/326.png"
+    ],
+    "juice_bottle/test/good/054.png": [
+        "juice_bottle/train/good/103.png"
+    ],
+    "juice_bottle/test/good/055.png": [
+        "juice_bottle/train/good/111.png"
+    ],
+    "juice_bottle/test/good/056.png": [
+        "juice_bottle/train/good/274.png"
+    ],
+    "juice_bottle/test/good/057.png": [
+        "juice_bottle/train/good/246.png"
+    ],
+    "juice_bottle/test/good/058.png": [
+        "juice_bottle/train/good/180.png"
+    ],
+    "juice_bottle/test/good/059.png": [
+        "juice_bottle/train/good/122.png"
+    ],
+    "juice_bottle/test/good/060.png": [
+        "juice_bottle/train/good/177.png"
+    ],
+    "juice_bottle/test/good/061.png": [
+        "juice_bottle/train/good/136.png"
+    ],
+    "juice_bottle/test/good/062.png": [
+        "juice_bottle/train/good/077.png"
+    ],
+    "juice_bottle/test/good/063.png": [
+        "juice_bottle/train/good/103.png"
+    ],
+    "juice_bottle/test/good/064.png": [
+        "juice_bottle/train/good/127.png"
+    ],
+    "juice_bottle/test/good/065.png": [
+        "juice_bottle/train/good/281.png"
+    ],
+    "juice_bottle/test/good/066.png": [
+        "juice_bottle/train/good/171.png"
+    ],
+    "juice_bottle/test/good/067.png": [
+        "juice_bottle/train/good/312.png"
+    ],
+    "juice_bottle/test/good/068.png": [
+        "juice_bottle/train/good/194.png"
+    ],
+    "juice_bottle/test/good/069.png": [
+        "juice_bottle/train/good/036.png"
+    ],
+    "juice_bottle/test/good/070.png": [
+        "juice_bottle/train/good/317.png"
+    ],
+    "juice_bottle/test/good/071.png": [
+        "juice_bottle/train/good/130.png"
+    ],
+    "juice_bottle/test/good/072.png": [
+        "juice_bottle/train/good/036.png"
+    ],
+    "juice_bottle/test/good/073.png": [
+        "juice_bottle/train/good/316.png"
+    ],
+    "juice_bottle/test/good/074.png": [
+        "juice_bottle/train/good/109.png"
+    ],
+    "juice_bottle/test/good/075.png": [
+        "juice_bottle/train/good/004.png"
+    ],
+    "juice_bottle/test/good/076.png": [
+        "juice_bottle/train/good/144.png"
+    ],
+    "juice_bottle/test/good/077.png": [
+        "juice_bottle/train/good/190.png"
+    ],
+    "juice_bottle/test/good/078.png": [
+        "juice_bottle/train/good/058.png"
+    ],
+    "juice_bottle/test/good/079.png": [
+        "juice_bottle/train/good/007.png"
+    ],
+    "juice_bottle/test/good/080.png": [
+        "juice_bottle/train/good/260.png"
+    ],
+    "juice_bottle/test/good/081.png": [
+        "juice_bottle/train/good/120.png"
+    ],
+    "juice_bottle/test/good/082.png": [
+        "juice_bottle/train/good/123.png"
+    ],
+    "juice_bottle/test/good/083.png": [
+        "juice_bottle/train/good/132.png"
+    ],
+    "juice_bottle/test/good/084.png": [
+        "juice_bottle/train/good/310.png"
+    ],
+    "juice_bottle/test/good/085.png": [
+        "juice_bottle/train/good/066.png"
+    ],
+    "juice_bottle/test/good/086.png": [
+        "juice_bottle/train/good/194.png"
+    ],
+    "juice_bottle/test/good/087.png": [
+        "juice_bottle/train/good/265.png"
+    ],
+    "juice_bottle/test/good/088.png": [
+        "juice_bottle/train/good/031.png"
+    ],
+    "juice_bottle/test/good/089.png": [
+        "juice_bottle/train/good/006.png"
+    ],
+    "juice_bottle/test/good/090.png": [
+        "juice_bottle/train/good/004.png"
+    ],
+    "juice_bottle/test/good/091.png": [
+        "juice_bottle/train/good/126.png"
+    ],
+    "juice_bottle/test/good/092.png": [
+        "juice_bottle/train/good/245.png"
+    ],
+    "juice_bottle/test/good/093.png": [
+        "juice_bottle/train/good/055.png"
+    ],
+    "juice_bottle/test/logical_anomalies/000.png": [
+        "juice_bottle/train/good/279.png"
+    ],
+    "juice_bottle/test/logical_anomalies/001.png": [
+        "juice_bottle/train/good/155.png"
+    ],
+    "juice_bottle/test/logical_anomalies/002.png": [
+        "juice_bottle/train/good/145.png"
+    ],
+    "juice_bottle/test/logical_anomalies/003.png": [
+        "juice_bottle/train/good/261.png"
+    ],
+    "juice_bottle/test/logical_anomalies/004.png": [
+        "juice_bottle/train/good/311.png"
+    ],
+    "juice_bottle/test/logical_anomalies/005.png": [
+        "juice_bottle/train/good/313.png"
+    ],
+    "juice_bottle/test/logical_anomalies/006.png": [
+        "juice_bottle/train/good/149.png"
+    ],
+    "juice_bottle/test/logical_anomalies/007.png": [
+        "juice_bottle/train/good/209.png"
+    ],
+    "juice_bottle/test/logical_anomalies/008.png": [
+        "juice_bottle/train/good/050.png"
+    ],
+    "juice_bottle/test/logical_anomalies/009.png": [
+        "juice_bottle/train/good/259.png"
+    ],
+    "juice_bottle/test/logical_anomalies/010.png": [
+        "juice_bottle/train/good/132.png"
+    ],
+    "juice_bottle/test/logical_anomalies/011.png": [
+        "juice_bottle/train/good/150.png"
+    ],
+    "juice_bottle/test/logical_anomalies/012.png": [
+        "juice_bottle/train/good/252.png"
+    ],
+    "juice_bottle/test/logical_anomalies/013.png": [
+        "juice_bottle/train/good/030.png"
+    ],
+    "juice_bottle/test/logical_anomalies/014.png": [
+        "juice_bottle/train/good/007.png"
+    ],
+    "juice_bottle/test/logical_anomalies/015.png": [
+        "juice_bottle/train/good/212.png"
+    ],
+    "juice_bottle/test/logical_anomalies/016.png": [
+        "juice_bottle/train/good/274.png"
+    ],
+    "juice_bottle/test/logical_anomalies/017.png": [
+        "juice_bottle/train/good/139.png"
+    ],
+    "juice_bottle/test/logical_anomalies/018.png": [
+        "juice_bottle/train/good/147.png"
+    ],
+    "juice_bottle/test/logical_anomalies/019.png": [
+        "juice_bottle/train/good/101.png"
+    ],
+    "juice_bottle/test/logical_anomalies/020.png": [
+        "juice_bottle/train/good/325.png"
+    ],
+    "juice_bottle/test/logical_anomalies/021.png": [
+        "juice_bottle/train/good/089.png"
+    ],
+    "juice_bottle/test/logical_anomalies/022.png": [
+        "juice_bottle/train/good/248.png"
+    ],
+    "juice_bottle/test/logical_anomalies/023.png": [
+        "juice_bottle/train/good/073.png"
+    ],
+    "juice_bottle/test/logical_anomalies/024.png": [
+        "juice_bottle/train/good/303.png"
+    ],
+    "juice_bottle/test/logical_anomalies/025.png": [
+        "juice_bottle/train/good/179.png"
+    ],
+    "juice_bottle/test/logical_anomalies/026.png": [
+        "juice_bottle/train/good/015.png"
+    ],
+    "juice_bottle/test/logical_anomalies/027.png": [
+        "juice_bottle/train/good/283.png"
+    ],
+    "juice_bottle/test/logical_anomalies/028.png": [
+        "juice_bottle/train/good/077.png"
+    ],
+    "juice_bottle/test/logical_anomalies/029.png": [
+        "juice_bottle/train/good/235.png"
+    ],
+    "juice_bottle/test/logical_anomalies/030.png": [
+        "juice_bottle/train/good/040.png"
+    ],
+    "juice_bottle/test/logical_anomalies/031.png": [
+        "juice_bottle/train/good/189.png"
+    ],
+    "juice_bottle/test/logical_anomalies/032.png": [
+        "juice_bottle/train/good/094.png"
+    ],
+    "juice_bottle/test/logical_anomalies/033.png": [
+        "juice_bottle/train/good/004.png"
+    ],
+    "juice_bottle/test/logical_anomalies/034.png": [
+        "juice_bottle/train/good/134.png"
+    ],
+    "juice_bottle/test/logical_anomalies/035.png": [
+        "juice_bottle/train/good/233.png"
+    ],
+    "juice_bottle/test/logical_anomalies/036.png": [
+        "juice_bottle/train/good/103.png"
+    ],
+    "juice_bottle/test/logical_anomalies/037.png": [
+        "juice_bottle/train/good/139.png"
+    ],
+    "juice_bottle/test/logical_anomalies/038.png": [
+        "juice_bottle/train/good/144.png"
+    ],
+    "juice_bottle/test/logical_anomalies/039.png": [
+        "juice_bottle/train/good/294.png"
+    ],
+    "juice_bottle/test/logical_anomalies/040.png": [
+        "juice_bottle/train/good/043.png"
+    ],
+    "juice_bottle/test/logical_anomalies/041.png": [
+        "juice_bottle/train/good/180.png"
+    ],
+    "juice_bottle/test/logical_anomalies/042.png": [
+        "juice_bottle/train/good/329.png"
+    ],
+    "juice_bottle/test/logical_anomalies/043.png": [
+        "juice_bottle/train/good/077.png"
+    ],
+    "juice_bottle/test/logical_anomalies/044.png": [
+        "juice_bottle/train/good/157.png"
+    ],
+    "juice_bottle/test/logical_anomalies/045.png": [
+        "juice_bottle/train/good/212.png"
+    ],
+    "juice_bottle/test/logical_anomalies/046.png": [
+        "juice_bottle/train/good/132.png"
+    ],
+    "juice_bottle/test/logical_anomalies/047.png": [
+        "juice_bottle/train/good/018.png"
+    ],
+    "juice_bottle/test/logical_anomalies/048.png": [
+        "juice_bottle/train/good/327.png"
+    ],
+    "juice_bottle/test/logical_anomalies/049.png": [
+        "juice_bottle/train/good/230.png"
+    ],
+    "juice_bottle/test/logical_anomalies/050.png": [
+        "juice_bottle/train/good/081.png"
+    ],
+    "juice_bottle/test/logical_anomalies/051.png": [
+        "juice_bottle/train/good/031.png"
+    ],
+    "juice_bottle/test/logical_anomalies/052.png": [
+        "juice_bottle/train/good/057.png"
+    ],
+    "juice_bottle/test/logical_anomalies/053.png": [
+        "juice_bottle/train/good/114.png"
+    ],
+    "juice_bottle/test/logical_anomalies/054.png": [
+        "juice_bottle/train/good/143.png"
+    ],
+    "juice_bottle/test/logical_anomalies/055.png": [
+        "juice_bottle/train/good/031.png"
+    ],
+    "juice_bottle/test/logical_anomalies/056.png": [
+        "juice_bottle/train/good/296.png"
+    ],
+    "juice_bottle/test/logical_anomalies/057.png": [
+        "juice_bottle/train/good/110.png"
+    ],
+    "juice_bottle/test/logical_anomalies/058.png": [
+        "juice_bottle/train/good/163.png"
+    ],
+    "juice_bottle/test/logical_anomalies/059.png": [
+        "juice_bottle/train/good/151.png"
+    ],
+    "juice_bottle/test/logical_anomalies/060.png": [
+        "juice_bottle/train/good/124.png"
+    ],
+    "juice_bottle/test/logical_anomalies/061.png": [
+        "juice_bottle/train/good/089.png"
+    ],
+    "juice_bottle/test/logical_anomalies/062.png": [
+        "juice_bottle/train/good/257.png"
+    ],
+    "juice_bottle/test/logical_anomalies/063.png": [
+        "juice_bottle/train/good/205.png"
+    ],
+    "juice_bottle/test/logical_anomalies/064.png": [
+        "juice_bottle/train/good/214.png"
+    ],
+    "juice_bottle/test/logical_anomalies/065.png": [
+        "juice_bottle/train/good/159.png"
+    ],
+    "juice_bottle/test/logical_anomalies/066.png": [
+        "juice_bottle/train/good/303.png"
+    ],
+    "juice_bottle/test/logical_anomalies/067.png": [
+        "juice_bottle/train/good/032.png"
+    ],
+    "juice_bottle/test/logical_anomalies/068.png": [
+        "juice_bottle/train/good/293.png"
+    ],
+    "juice_bottle/test/logical_anomalies/069.png": [
+        "juice_bottle/train/good/135.png"
+    ],
+    "juice_bottle/test/logical_anomalies/070.png": [
+        "juice_bottle/train/good/143.png"
+    ],
+    "juice_bottle/test/logical_anomalies/071.png": [
+        "juice_bottle/train/good/084.png"
+    ],
+    "juice_bottle/test/logical_anomalies/072.png": [
+        "juice_bottle/train/good/009.png"
+    ],
+    "juice_bottle/test/logical_anomalies/073.png": [
+        "juice_bottle/train/good/032.png"
+    ],
+    "juice_bottle/test/logical_anomalies/074.png": [
+        "juice_bottle/train/good/189.png"
+    ],
+    "juice_bottle/test/logical_anomalies/075.png": [
+        "juice_bottle/train/good/307.png"
+    ],
+    "juice_bottle/test/logical_anomalies/076.png": [
+        "juice_bottle/train/good/107.png"
+    ],
+    "juice_bottle/test/logical_anomalies/077.png": [
+        "juice_bottle/train/good/088.png"
+    ],
+    "juice_bottle/test/logical_anomalies/078.png": [
+        "juice_bottle/train/good/022.png"
+    ],
+    "juice_bottle/test/logical_anomalies/079.png": [
+        "juice_bottle/train/good/112.png"
+    ],
+    "juice_bottle/test/logical_anomalies/080.png": [
+        "juice_bottle/train/good/124.png"
+    ],
+    "juice_bottle/test/logical_anomalies/081.png": [
+        "juice_bottle/train/good/011.png"
+    ],
+    "juice_bottle/test/logical_anomalies/082.png": [
+        "juice_bottle/train/good/109.png"
+    ],
+    "juice_bottle/test/logical_anomalies/083.png": [
+        "juice_bottle/train/good/306.png"
+    ],
+    "juice_bottle/test/logical_anomalies/084.png": [
+        "juice_bottle/train/good/230.png"
+    ],
+    "juice_bottle/test/logical_anomalies/085.png": [
+        "juice_bottle/train/good/086.png"
+    ],
+    "juice_bottle/test/logical_anomalies/086.png": [
+        "juice_bottle/train/good/205.png"
+    ],
+    "juice_bottle/test/logical_anomalies/087.png": [
+        "juice_bottle/train/good/124.png"
+    ],
+    "juice_bottle/test/logical_anomalies/088.png": [
+        "juice_bottle/train/good/157.png"
+    ],
+    "juice_bottle/test/logical_anomalies/089.png": [
+        "juice_bottle/train/good/110.png"
+    ],
+    "juice_bottle/test/logical_anomalies/090.png": [
+        "juice_bottle/train/good/079.png"
+    ],
+    "juice_bottle/test/logical_anomalies/091.png": [
+        "juice_bottle/train/good/043.png"
+    ],
+    "juice_bottle/test/logical_anomalies/092.png": [
+        "juice_bottle/train/good/161.png"
+    ],
+    "juice_bottle/test/logical_anomalies/093.png": [
+        "juice_bottle/train/good/110.png"
+    ],
+    "juice_bottle/test/logical_anomalies/094.png": [
+        "juice_bottle/train/good/331.png"
+    ],
+    "juice_bottle/test/logical_anomalies/095.png": [
+        "juice_bottle/train/good/254.png"
+    ],
+    "juice_bottle/test/logical_anomalies/096.png": [
+        "juice_bottle/train/good/000.png"
+    ],
+    "juice_bottle/test/logical_anomalies/097.png": [
+        "juice_bottle/train/good/201.png"
+    ],
+    "juice_bottle/test/logical_anomalies/098.png": [
+        "juice_bottle/train/good/077.png"
+    ],
+    "juice_bottle/test/logical_anomalies/099.png": [
+        "juice_bottle/train/good/216.png"
+    ],
+    "juice_bottle/test/logical_anomalies/100.png": [
+        "juice_bottle/train/good/326.png"
+    ],
+    "juice_bottle/test/logical_anomalies/101.png": [
+        "juice_bottle/train/good/009.png"
+    ],
+    "juice_bottle/test/logical_anomalies/102.png": [
+        "juice_bottle/train/good/298.png"
+    ],
+    "juice_bottle/test/logical_anomalies/103.png": [
+        "juice_bottle/train/good/329.png"
+    ],
+    "juice_bottle/test/logical_anomalies/104.png": [
+        "juice_bottle/train/good/260.png"
+    ],
+    "juice_bottle/test/logical_anomalies/105.png": [
+        "juice_bottle/train/good/233.png"
+    ],
+    "juice_bottle/test/logical_anomalies/106.png": [
+        "juice_bottle/train/good/235.png"
+    ],
+    "juice_bottle/test/logical_anomalies/107.png": [
+        "juice_bottle/train/good/065.png"
+    ],
+    "juice_bottle/test/logical_anomalies/108.png": [
+        "juice_bottle/train/good/256.png"
+    ],
+    "juice_bottle/test/logical_anomalies/109.png": [
+        "juice_bottle/train/good/020.png"
+    ],
+    "juice_bottle/test/logical_anomalies/110.png": [
+        "juice_bottle/train/good/312.png"
+    ],
+    "juice_bottle/test/logical_anomalies/111.png": [
+        "juice_bottle/train/good/266.png"
+    ],
+    "juice_bottle/test/logical_anomalies/112.png": [
+        "juice_bottle/train/good/262.png"
+    ],
+    "juice_bottle/test/logical_anomalies/113.png": [
+        "juice_bottle/train/good/331.png"
+    ],
+    "juice_bottle/test/logical_anomalies/114.png": [
+        "juice_bottle/train/good/202.png"
+    ],
+    "juice_bottle/test/logical_anomalies/115.png": [
+        "juice_bottle/train/good/202.png"
+    ],
+    "juice_bottle/test/logical_anomalies/116.png": [
+        "juice_bottle/train/good/179.png"
+    ],
+    "juice_bottle/test/logical_anomalies/117.png": [
+        "juice_bottle/train/good/333.png"
+    ],
+    "juice_bottle/test/logical_anomalies/118.png": [
+        "juice_bottle/train/good/333.png"
+    ],
+    "juice_bottle/test/logical_anomalies/119.png": [
+        "juice_bottle/train/good/221.png"
+    ],
+    "juice_bottle/test/logical_anomalies/120.png": [
+        "juice_bottle/train/good/144.png"
+    ],
+    "juice_bottle/test/logical_anomalies/121.png": [
+        "juice_bottle/train/good/262.png"
+    ],
+    "juice_bottle/test/logical_anomalies/122.png": [
+        "juice_bottle/train/good/231.png"
+    ],
+    "juice_bottle/test/logical_anomalies/123.png": [
+        "juice_bottle/train/good/209.png"
+    ],
+    "juice_bottle/test/logical_anomalies/124.png": [
+        "juice_bottle/train/good/329.png"
+    ],
+    "juice_bottle/test/logical_anomalies/125.png": [
+        "juice_bottle/train/good/057.png"
+    ],
+    "juice_bottle/test/logical_anomalies/126.png": [
+        "juice_bottle/train/good/269.png"
+    ],
+    "juice_bottle/test/logical_anomalies/127.png": [
+        "juice_bottle/train/good/171.png"
+    ],
+    "juice_bottle/test/logical_anomalies/128.png": [
+        "juice_bottle/train/good/019.png"
+    ],
+    "juice_bottle/test/logical_anomalies/129.png": [
+        "juice_bottle/train/good/100.png"
+    ],
+    "juice_bottle/test/logical_anomalies/130.png": [
+        "juice_bottle/train/good/237.png"
+    ],
+    "juice_bottle/test/logical_anomalies/131.png": [
+        "juice_bottle/train/good/310.png"
+    ],
+    "juice_bottle/test/logical_anomalies/132.png": [
+        "juice_bottle/train/good/284.png"
+    ],
+    "juice_bottle/test/logical_anomalies/133.png": [
+        "juice_bottle/train/good/154.png"
+    ],
+    "juice_bottle/test/logical_anomalies/134.png": [
+        "juice_bottle/train/good/213.png"
+    ],
+    "juice_bottle/test/logical_anomalies/135.png": [
+        "juice_bottle/train/good/150.png"
+    ],
+    "juice_bottle/test/logical_anomalies/136.png": [
+        "juice_bottle/train/good/231.png"
+    ],
+    "juice_bottle/test/logical_anomalies/137.png": [
+        "juice_bottle/train/good/018.png"
+    ],
+    "juice_bottle/test/logical_anomalies/138.png": [
+        "juice_bottle/train/good/239.png"
+    ],
+    "juice_bottle/test/logical_anomalies/139.png": [
+        "juice_bottle/train/good/285.png"
+    ],
+    "juice_bottle/test/logical_anomalies/140.png": [
+        "juice_bottle/train/good/078.png"
+    ],
+    "juice_bottle/test/logical_anomalies/141.png": [
+        "juice_bottle/train/good/009.png"
+    ],
+    "juice_bottle/test/structural_anomalies/000.png": [
+        "juice_bottle/train/good/150.png"
+    ],
+    "juice_bottle/test/structural_anomalies/001.png": [
+        "juice_bottle/train/good/161.png"
+    ],
+    "juice_bottle/test/structural_anomalies/002.png": [
+        "juice_bottle/train/good/035.png"
+    ],
+    "juice_bottle/test/structural_anomalies/003.png": [
+        "juice_bottle/train/good/000.png"
+    ],
+    "juice_bottle/test/structural_anomalies/004.png": [
+        "juice_bottle/train/good/004.png"
+    ],
+    "juice_bottle/test/structural_anomalies/005.png": [
+        "juice_bottle/train/good/030.png"
+    ],
+    "juice_bottle/test/structural_anomalies/006.png": [
+        "juice_bottle/train/good/205.png"
+    ],
+    "juice_bottle/test/structural_anomalies/007.png": [
+        "juice_bottle/train/good/182.png"
+    ],
+    "juice_bottle/test/structural_anomalies/008.png": [
+        "juice_bottle/train/good/141.png"
+    ],
+    "juice_bottle/test/structural_anomalies/009.png": [
+        "juice_bottle/train/good/322.png"
+    ],
+    "juice_bottle/test/structural_anomalies/010.png": [
+        "juice_bottle/train/good/194.png"
+    ],
+    "juice_bottle/test/structural_anomalies/011.png": [
+        "juice_bottle/train/good/230.png"
+    ],
+    "juice_bottle/test/structural_anomalies/012.png": [
+        "juice_bottle/train/good/187.png"
+    ],
+    "juice_bottle/test/structural_anomalies/013.png": [
+        "juice_bottle/train/good/326.png"
+    ],
+    "juice_bottle/test/structural_anomalies/014.png": [
+        "juice_bottle/train/good/046.png"
+    ],
+    "juice_bottle/test/structural_anomalies/015.png": [
+        "juice_bottle/train/good/314.png"
+    ],
+    "juice_bottle/test/structural_anomalies/016.png": [
+        "juice_bottle/train/good/144.png"
+    ],
+    "juice_bottle/test/structural_anomalies/017.png": [
+        "juice_bottle/train/good/114.png"
+    ],
+    "juice_bottle/test/structural_anomalies/018.png": [
+        "juice_bottle/train/good/012.png"
+    ],
+    "juice_bottle/test/structural_anomalies/019.png": [
+        "juice_bottle/train/good/228.png"
+    ],
+    "juice_bottle/test/structural_anomalies/020.png": [
+        "juice_bottle/train/good/148.png"
+    ],
+    "juice_bottle/test/structural_anomalies/021.png": [
+        "juice_bottle/train/good/242.png"
+    ],
+    "juice_bottle/test/structural_anomalies/022.png": [
+        "juice_bottle/train/good/011.png"
+    ],
+    "juice_bottle/test/structural_anomalies/023.png": [
+        "juice_bottle/train/good/027.png"
+    ],
+    "juice_bottle/test/structural_anomalies/024.png": [
+        "juice_bottle/train/good/247.png"
+    ],
+    "juice_bottle/test/structural_anomalies/025.png": [
+        "juice_bottle/train/good/212.png"
+    ],
+    "juice_bottle/test/structural_anomalies/026.png": [
+        "juice_bottle/train/good/267.png"
+    ],
+    "juice_bottle/test/structural_anomalies/027.png": [
+        "juice_bottle/train/good/106.png"
+    ],
+    "juice_bottle/test/structural_anomalies/028.png": [
+        "juice_bottle/train/good/110.png"
+    ],
+    "juice_bottle/test/structural_anomalies/029.png": [
+        "juice_bottle/train/good/028.png"
+    ],
+    "juice_bottle/test/structural_anomalies/030.png": [
+        "juice_bottle/train/good/142.png"
+    ],
+    "juice_bottle/test/structural_anomalies/031.png": [
+        "juice_bottle/train/good/136.png"
+    ],
+    "juice_bottle/test/structural_anomalies/032.png": [
+        "juice_bottle/train/good/246.png"
+    ],
+    "juice_bottle/test/structural_anomalies/033.png": [
+        "juice_bottle/train/good/192.png"
+    ],
+    "juice_bottle/test/structural_anomalies/034.png": [
+        "juice_bottle/train/good/194.png"
+    ],
+    "juice_bottle/test/structural_anomalies/035.png": [
+        "juice_bottle/train/good/074.png"
+    ],
+    "juice_bottle/test/structural_anomalies/036.png": [
+        "juice_bottle/train/good/229.png"
+    ],
+    "juice_bottle/test/structural_anomalies/037.png": [
+        "juice_bottle/train/good/043.png"
+    ],
+    "juice_bottle/test/structural_anomalies/038.png": [
+        "juice_bottle/train/good/230.png"
+    ],
+    "juice_bottle/test/structural_anomalies/039.png": [
+        "juice_bottle/train/good/280.png"
+    ],
+    "juice_bottle/test/structural_anomalies/040.png": [
+        "juice_bottle/train/good/234.png"
+    ],
+    "juice_bottle/test/structural_anomalies/041.png": [
+        "juice_bottle/train/good/212.png"
+    ],
+    "juice_bottle/test/structural_anomalies/042.png": [
+        "juice_bottle/train/good/170.png"
+    ],
+    "juice_bottle/test/structural_anomalies/043.png": [
+        "juice_bottle/train/good/114.png"
+    ],
+    "juice_bottle/test/structural_anomalies/044.png": [
+        "juice_bottle/train/good/260.png"
+    ],
+    "juice_bottle/test/structural_anomalies/045.png": [
+        "juice_bottle/train/good/239.png"
+    ],
+    "juice_bottle/test/structural_anomalies/046.png": [
+        "juice_bottle/train/good/125.png"
+    ],
+    "juice_bottle/test/structural_anomalies/047.png": [
+        "juice_bottle/train/good/320.png"
+    ],
+    "juice_bottle/test/structural_anomalies/048.png": [
+        "juice_bottle/train/good/316.png"
+    ],
+    "juice_bottle/test/structural_anomalies/049.png": [
+        "juice_bottle/train/good/031.png"
+    ],
+    "juice_bottle/test/structural_anomalies/050.png": [
+        "juice_bottle/train/good/316.png"
+    ],
+    "juice_bottle/test/structural_anomalies/051.png": [
+        "juice_bottle/train/good/329.png"
+    ],
+    "juice_bottle/test/structural_anomalies/052.png": [
+        "juice_bottle/train/good/157.png"
+    ],
+    "juice_bottle/test/structural_anomalies/053.png": [
+        "juice_bottle/train/good/191.png"
+    ],
+    "juice_bottle/test/structural_anomalies/054.png": [
+        "juice_bottle/train/good/237.png"
+    ],
+    "juice_bottle/test/structural_anomalies/055.png": [
+        "juice_bottle/train/good/143.png"
+    ],
+    "juice_bottle/test/structural_anomalies/056.png": [
+        "juice_bottle/train/good/132.png"
+    ],
+    "juice_bottle/test/structural_anomalies/057.png": [
+        "juice_bottle/train/good/101.png"
+    ],
+    "juice_bottle/test/structural_anomalies/058.png": [
+        "juice_bottle/train/good/103.png"
+    ],
+    "juice_bottle/test/structural_anomalies/059.png": [
+        "juice_bottle/train/good/084.png"
+    ],
+    "juice_bottle/test/structural_anomalies/060.png": [
+        "juice_bottle/train/good/055.png"
+    ],
+    "juice_bottle/test/structural_anomalies/061.png": [
+        "juice_bottle/train/good/226.png"
+    ],
+    "juice_bottle/test/structural_anomalies/062.png": [
+        "juice_bottle/train/good/031.png"
+    ],
+    "juice_bottle/test/structural_anomalies/063.png": [
+        "juice_bottle/train/good/127.png"
+    ],
+    "juice_bottle/test/structural_anomalies/064.png": [
+        "juice_bottle/train/good/086.png"
+    ],
+    "juice_bottle/test/structural_anomalies/065.png": [
+        "juice_bottle/train/good/259.png"
+    ],
+    "juice_bottle/test/structural_anomalies/066.png": [
+        "juice_bottle/train/good/054.png"
+    ],
+    "juice_bottle/test/structural_anomalies/067.png": [
+        "juice_bottle/train/good/091.png"
+    ],
+    "juice_bottle/test/structural_anomalies/068.png": [
+        "juice_bottle/train/good/262.png"
+    ],
+    "juice_bottle/test/structural_anomalies/069.png": [
+        "juice_bottle/train/good/237.png"
+    ],
+    "juice_bottle/test/structural_anomalies/070.png": [
+        "juice_bottle/train/good/160.png"
+    ],
+    "juice_bottle/test/structural_anomalies/071.png": [
+        "juice_bottle/train/good/330.png"
+    ],
+    "juice_bottle/test/structural_anomalies/072.png": [
+        "juice_bottle/train/good/194.png"
+    ],
+    "juice_bottle/test/structural_anomalies/073.png": [
+        "juice_bottle/train/good/233.png"
+    ],
+    "juice_bottle/test/structural_anomalies/074.png": [
+        "juice_bottle/train/good/043.png"
+    ],
+    "juice_bottle/test/structural_anomalies/075.png": [
+        "juice_bottle/train/good/082.png"
+    ],
+    "juice_bottle/test/structural_anomalies/076.png": [
+        "juice_bottle/train/good/327.png"
+    ],
+    "juice_bottle/test/structural_anomalies/077.png": [
+        "juice_bottle/train/good/329.png"
+    ],
+    "juice_bottle/test/structural_anomalies/078.png": [
+        "juice_bottle/train/good/081.png"
+    ],
+    "juice_bottle/test/structural_anomalies/079.png": [
+        "juice_bottle/train/good/282.png"
+    ],
+    "juice_bottle/test/structural_anomalies/080.png": [
+        "juice_bottle/train/good/298.png"
+    ],
+    "juice_bottle/test/structural_anomalies/081.png": [
+        "juice_bottle/train/good/127.png"
+    ],
+    "juice_bottle/test/structural_anomalies/082.png": [
+        "juice_bottle/train/good/098.png"
+    ],
+    "juice_bottle/test/structural_anomalies/083.png": [
+        "juice_bottle/train/good/043.png"
+    ],
+    "juice_bottle/test/structural_anomalies/084.png": [
+        "juice_bottle/train/good/317.png"
+    ],
+    "juice_bottle/test/structural_anomalies/085.png": [
+        "juice_bottle/train/good/093.png"
+    ],
+    "juice_bottle/test/structural_anomalies/086.png": [
+        "juice_bottle/train/good/246.png"
+    ],
+    "juice_bottle/test/structural_anomalies/087.png": [
+        "juice_bottle/train/good/148.png"
+    ],
+    "juice_bottle/test/structural_anomalies/088.png": [
+        "juice_bottle/train/good/140.png"
+    ],
+    "juice_bottle/test/structural_anomalies/089.png": [
+        "juice_bottle/train/good/193.png"
+    ],
+    "juice_bottle/test/structural_anomalies/090.png": [
+        "juice_bottle/train/good/222.png"
+    ],
+    "juice_bottle/test/structural_anomalies/091.png": [
+        "juice_bottle/train/good/254.png"
+    ],
+    "juice_bottle/test/structural_anomalies/092.png": [
+        "juice_bottle/train/good/078.png"
+    ],
+    "juice_bottle/test/structural_anomalies/093.png": [
+        "juice_bottle/train/good/005.png"
+    ]
+}
